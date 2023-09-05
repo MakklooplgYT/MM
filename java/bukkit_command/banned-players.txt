@@ -1,0 +1,5 @@
+# Updated 9/5/23 11:48 AM by Minecraft 1.5.2
+# victim name | ban date | banned by | banned until | reason
+
+emix|2022-05-13 14:40:10 +0000|(Unknown)|Forever|Banned by an operator.
+ip|2022-05-13 14:40:23 +0000|(Unknown)|Forever|Banned by an operator.

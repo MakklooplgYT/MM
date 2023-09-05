@@ -1,0 +1,1691 @@
+18:43:30 [INFO] Enabled BungeeCord version unknown
+18:43:31 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+18:43:31 [INFO] Listening websockets on /0.0.0.0:1
+18:43:31 [INFO] Server bans.txt changed, it will be reloaded automatically
+18:43:31 [INFO] Reload complete
+18:43:32 [INFO] Listening on /127.11.0.1:34923
+19:25:54 [INFO] Enabled BungeeCord version unknown
+19:25:55 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+19:25:55 [INFO] Listening websockets on /0.0.0.0:1
+19:25:56 [INFO] Server bans.txt changed, it will be reloaded automatically
+19:25:56 [INFO] Reload complete
+19:25:56 [INFO] Listening on /127.11.0.1:41327
+19:26:57 [INFO] Enabled BungeeCord version unknown
+19:26:58 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+19:26:59 [INFO] Listening websockets on /0.0.0.0:1
+19:26:59 [SEVERE] java.net.BindException: Address already in use
+19:26:59 [SEVERE] 	at sun.nio.ch.Net.bind0(Native Method)
+19:26:59 [SEVERE] 	at sun.nio.ch.Net.bind(Net.java:461)
+19:26:59 [SEVERE] 	at sun.nio.ch.Net.bind(Net.java:453)
+19:26:59 [SEVERE] 	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:222)
+19:26:59 [SEVERE] 	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:85)
+19:26:59 [SEVERE] 	at org.java_websocket.server.WebSocketServer.doSetupSelectorAndServerThread(WebSocketServer.java:533)
+19:26:59 [SEVERE] 	at org.java_websocket.server.WebSocketServer.run(WebSocketServer.java:341)
+19:26:59 [SEVERE] 	at java.lang.Thread.run(Thread.java:748)
+19:26:59 [INFO] Server bans.txt changed, it will be reloaded automatically
+19:26:59 [INFO] Reload complete
+19:26:59 [INFO] Listening on /127.11.0.1:36767
+19:28:13 [INFO] Enabled BungeeCord version unknown
+19:28:13 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+19:28:14 [INFO] Listening websockets on /0.0.0.0:1
+19:28:14 [INFO] Server bans.txt changed, it will be reloaded automatically
+19:28:14 [INFO] Reload complete
+19:28:15 [INFO] Listening on /127.11.0.1:37503
+20:14:44 [INFO] Enabled BungeeCord version unknown
+20:14:45 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+20:14:46 [INFO] Listening websockets on /0.0.0.0:1
+20:14:46 [INFO] Server bans.txt changed, it will be reloaded automatically
+20:14:46 [INFO] Reload complete
+20:14:46 [INFO] Listening on /127.11.0.1:38593
+02:18:13 [INFO] Enabled BungeeCord version unknown
+02:18:14 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+02:18:14 [INFO] Listening websockets on /0.0.0.0:1
+02:18:15 [INFO] Server bans.txt changed, it will be reloaded automatically
+02:18:15 [INFO] Reload complete
+02:18:15 [INFO] Listening on /127.11.0.1:36669
+02:20:53 [INFO] Enabled BungeeCord version unknown
+02:20:54 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+02:20:54 [INFO] Listening websockets on /0.0.0.0:1
+02:20:54 [SEVERE] java.net.BindException: Address already in use
+02:20:54 [SEVERE] 	at sun.nio.ch.Net.bind0(Native Method)
+02:20:54 [SEVERE] 	at sun.nio.ch.Net.bind(Net.java:461)
+02:20:54 [SEVERE] 	at sun.nio.ch.Net.bind(Net.java:453)
+02:20:54 [SEVERE] 	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:222)
+02:20:54 [SEVERE] 	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:85)
+02:20:54 [SEVERE] 	at org.java_websocket.server.WebSocketServer.doSetupSelectorAndServerThread(WebSocketServer.java:533)
+02:20:54 [SEVERE] 	at org.java_websocket.server.WebSocketServer.run(WebSocketServer.java:341)
+02:20:54 [SEVERE] 	at java.lang.Thread.run(Thread.java:748)
+02:20:55 [INFO] Server bans.txt changed, it will be reloaded automatically
+02:20:55 [INFO] Reload complete
+02:20:55 [INFO] Listening on /127.11.0.1:34077
+13:34:11 [INFO] Enabled BungeeCord version unknown
+13:34:14 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+13:34:14 [INFO] Listening websockets on /0.0.0.0:1
+13:34:15 [INFO] Server bans.txt changed, it will be reloaded automatically
+13:34:15 [INFO] Reload complete
+13:34:15 [INFO] Listening on /127.11.0.1:35991
+16:46:00 [INFO] Enabled BungeeCord version unknown
+16:46:01 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+16:46:01 [INFO] Listening websockets on /0.0.0.0:1
+16:46:01 [INFO] Server bans.txt changed, it will be reloaded automatically
+16:46:01 [INFO] Reload complete
+16:46:02 [INFO] Listening on /127.11.0.1:42809
+16:46:23 [INFO] Enabled BungeeCord version unknown
+16:46:24 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+16:46:24 [INFO] Listening websockets on /0.0.0.0:1
+16:46:24 [INFO] Listening on /127.11.0.1:44463
+16:46:24 [INFO] Server bans.txt changed, it will be reloaded automatically
+16:46:24 [INFO] Reload complete
+16:50:03 [INFO] [Makklooplg_] <-> InitialHandler has connected
+16:50:03 [INFO] Player 'Makklooplg_' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+16:50:03 [INFO] [Makklooplg_] <-> ServerConnector [lobby] has connected
+16:50:17 [SEVERE] org.java_websocket.exceptions.WebsocketNotConnectedException
+16:50:17 [INFO] [Makklooplg_] disconnected with: [Proxy] Lost connection to server.
+16:50:17 [SEVERE] 	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:628)
+16:50:17 [SEVERE] 	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:618)
+16:50:17 [SEVERE] 	at net.md_5.bungee.eaglercraft.WebSocketProxy.messageReceived(WebSocketProxy.java:91)
+16:50:17 [SEVERE] 	at net.md_5.bungee.eaglercraft.WebSocketProxy.messageReceived(WebSocketProxy.java:1)
+16:50:17 [SEVERE] 	at io.netty.channel.SimpleChannelInboundHandler.messageReceived(SimpleChannelInboundHandler.java:84)
+16:50:17 [SEVERE] 	at io.netty.channel.DefaultChannelHandlerContext.invokeMessageReceived(DefaultChannelHandlerContext.java:379)
+16:50:17 [SEVERE] 	at io.netty.channel.DefaultChannelHandlerContext.fireMessageReceived(DefaultChannelHandlerContext.java:364)
+16:50:17 [SEVERE] 	at io.netty.channel.DefaultChannelPipeline.fireMessageReceived(DefaultChannelPipeline.java:786)
+16:50:17 [INFO] [Makklooplg_] <-> DownstreamBridge <-> [lobby] has disconnected
+16:50:17 [SEVERE] 	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:120)
+16:50:17 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:489)
+16:50:17 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:464)
+16:50:17 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:358)
+16:50:17 [SEVERE] 	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101)
+16:50:17 [SEVERE] 	at java.lang.Thread.run(Thread.java:748)
+16:50:17 [INFO] [Makklooplg_] -> UpstreamBridge has disconnected
+17:39:48 [INFO] Enabled BungeeCord version unknown
+17:39:49 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+17:39:49 [INFO] Listening websockets on /0.0.0.0:1
+17:39:50 [INFO] Server bans.txt changed, it will be reloaded automatically
+17:39:50 [INFO] Reload complete
+17:39:50 [INFO] Listening on /127.11.0.1:44375
+17:40:47 [INFO] Enabled BungeeCord version unknown
+17:40:48 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+17:40:48 [INFO] Listening websockets on /0.0.0.0:1
+17:40:49 [SEVERE] java.net.BindException: Address already in use
+17:40:49 [SEVERE] 	at sun.nio.ch.Net.bind0(Native Method)
+17:40:49 [SEVERE] 	at sun.nio.ch.Net.bind(Net.java:461)
+17:40:49 [SEVERE] 	at sun.nio.ch.Net.bind(Net.java:453)
+17:40:49 [SEVERE] 	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:222)
+17:40:49 [SEVERE] 	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:85)
+17:40:49 [SEVERE] 	at org.java_websocket.server.WebSocketServer.doSetupSelectorAndServerThread(WebSocketServer.java:533)
+17:40:49 [SEVERE] 	at org.java_websocket.server.WebSocketServer.run(WebSocketServer.java:341)
+17:40:49 [SEVERE] 	at java.lang.Thread.run(Thread.java:748)
+17:40:49 [INFO] Server bans.txt changed, it will be reloaded automatically
+17:40:49 [INFO] Reload complete
+17:40:49 [INFO] Listening on /127.11.0.1:35925
+17:41:57 [INFO] Enabled BungeeCord version unknown
+17:41:58 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+17:41:58 [INFO] Listening websockets on /0.0.0.0:1
+17:41:59 [INFO] Server bans.txt changed, it will be reloaded automatically
+17:41:59 [INFO] Listening on /127.11.0.1:37565
+17:41:59 [INFO] Reload complete
+14:39:59 [INFO] Enabled BungeeCord version unknown
+14:39:59 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+14:40:00 [INFO] Listening websockets on /0.0.0.0:1
+14:40:00 [INFO] Server bans.txt changed, it will be reloaded automatically
+14:40:00 [INFO] Reload complete
+14:40:00 [INFO] Listening on /127.11.0.1:33115
+14:40:42 [INFO] [DarvlerYeeish78] <-> InitialHandler has connected
+14:40:42 [INFO] Player 'DarvlerYeeish78' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+14:40:43 [INFO] [DarvlerYeeish78] <-> ServerConnector [lobby] has connected
+14:41:04 [INFO] [DarvlerYeeish78] -> UpstreamBridge has disconnected
+14:41:13 [WARNING] [DarvlerYeeish78] <-> ServerConnector [lobby] - read timed out
+14:41:13 [INFO] [DarvlerYeeish78] <-> ServerConnector [lobby] has disconnected
+16:27:52 [INFO] Enabled BungeeCord version unknown
+16:27:53 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+16:27:53 [INFO] Listening websockets on /0.0.0.0:1
+16:27:53 [INFO] Server bans.txt changed, it will be reloaded automatically
+16:27:53 [INFO] Reload complete
+16:27:54 [INFO] Listening on /127.11.0.1:43251
+16:28:45 [INFO] [Makklooplg_] <-> InitialHandler has connected
+16:28:45 [INFO] Player 'Makklooplg_' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+16:28:45 [INFO] [Makklooplg_] <-> ServerConnector [lobby] has connected
+16:29:14 [INFO] [Makklooplg_] -> UpstreamBridge has disconnected
+16:29:14 [INFO] [Makklooplg_] <-> DownstreamBridge <-> [lobby] has disconnected
+19:07:09 [INFO] Enabled BungeeCord version unknown
+19:07:11 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+19:07:12 [INFO] Listening websockets on /0.0.0.0:1
+19:07:13 [INFO] Server bans.txt changed, it will be reloaded automatically
+19:07:13 [INFO] Reload complete
+19:07:13 [INFO] Listening on /127.11.0.1:36533
+01:46:10 [INFO] Enabled BungeeCord version unknown
+01:46:11 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+01:46:11 [INFO] Listening websockets on /0.0.0.0:1
+01:46:11 [INFO] Server bans.txt changed, it will be reloaded automatically
+01:46:11 [INFO] Reload complete
+01:46:11 [INFO] Listening on /127.11.0.1:33153
+15:50:10 [INFO] Enabled BungeeCord version unknown
+15:50:10 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:50:11 [INFO] Listening websockets on /0.0.0.0:1
+15:50:11 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:50:11 [INFO] Reload complete
+15:50:11 [INFO] Listening on /127.11.0.1:44753
+16:54:07 [INFO] Enabled BungeeCord version unknown
+16:54:08 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+16:54:08 [INFO] Listening websockets on /0.0.0.0:1
+16:54:09 [INFO] Server bans.txt changed, it will be reloaded automatically
+16:54:09 [INFO] Reload complete
+16:54:09 [INFO] Listening on /127.11.0.1:41877
+17:24:54 [INFO] [YeeYeer77] <-> InitialHandler has connected
+17:24:54 [INFO] Player 'YeeYeer77' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+17:24:54 [INFO] [YeeYeer77] <-> ServerConnector [lobby] has connected
+17:33:31 [INFO] [Hostes_4] <-> InitialHandler has connected
+17:33:31 [INFO] Player 'Hostes_4' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+17:33:31 [INFO] [Hostes_4] <-> ServerConnector [lobby] has connected
+17:38:03 [WARNING] [Hostes_4] -> UpstreamBridge - read timed out
+17:38:03 [INFO] [Hostes_4] disconnected with: ReadTimeoutException : null
+17:38:03 [INFO] [Hostes_4] -> UpstreamBridge has disconnected
+17:38:03 [INFO] [Hostes_4] <-> DownstreamBridge <-> [lobby] has disconnected
+17:39:26 [INFO] [Hostes_4] <-> InitialHandler has connected
+17:39:26 [INFO] Player 'Hostes_4' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+17:39:27 [INFO] [Hostes_4] <-> ServerConnector [lobby] has connected
+17:40:50 [WARNING] [Hostes_4] -> UpstreamBridge - read timed out
+17:40:50 [INFO] [Hostes_4] disconnected with: ReadTimeoutException : null
+17:40:50 [INFO] [Hostes_4] -> UpstreamBridge has disconnected
+17:40:50 [INFO] [Hostes_4] <-> DownstreamBridge <-> [lobby] has disconnected
+17:43:46 [INFO] [Hostes_4] <-> InitialHandler has connected
+17:43:46 [INFO] Player 'Hostes_4' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+17:43:46 [INFO] [Hostes_4] <-> ServerConnector [lobby] has connected
+17:45:01 [INFO] [jboogie] <-> InitialHandler has connected
+17:45:01 [INFO] Player 'jboogie' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+17:45:01 [INFO] [jboogie] <-> ServerConnector [lobby] has connected
+17:47:32 [INFO] [YeeYeer77] -> UpstreamBridge has disconnected
+17:47:32 [INFO] [YeeYeer77] <-> DownstreamBridge <-> [lobby] has disconnected
+17:47:50 [INFO] [Hostes_4] -> UpstreamBridge has disconnected
+17:47:51 [INFO] [Hostes_4] <-> DownstreamBridge <-> [lobby] has disconnected
+17:48:30 [INFO] [jboogie] -> UpstreamBridge has disconnected
+17:48:31 [INFO] [jboogie] <-> DownstreamBridge <-> [lobby] has disconnected
+18:37:26 [INFO] [EaglDarvler87] <-> InitialHandler has connected
+18:37:26 [INFO] Player 'EaglDarvler87' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+18:37:26 [INFO] [EaglDarvler87] <-> ServerConnector [lobby] has connected
+18:38:57 [INFO] [EaglDarvler87] -> UpstreamBridge has disconnected
+18:38:57 [INFO] [EaglDarvler87] <-> DownstreamBridge <-> [lobby] has disconnected
+18:39:43 [INFO] [EaglDarvler87] <-> InitialHandler has connected
+18:39:43 [INFO] Player 'EaglDarvler87' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+18:39:43 [INFO] [EaglDarvler87] <-> ServerConnector [lobby] has connected
+18:41:10 [WARNING] [EaglDarvler87] -> UpstreamBridge - IOException: Connection reset by peer
+18:41:10 [INFO] [EaglDarvler87] disconnected with: IOException : Connection reset by peer @ sun.nio.ch.FileDispatcherImpl:-2
+18:41:10 [INFO] [EaglDarvler87] -> UpstreamBridge has disconnected
+18:41:10 [INFO] [EaglDarvler87] <-> DownstreamBridge <-> [lobby] has disconnected
+20:22:06 [INFO] Enabled BungeeCord version unknown
+20:22:07 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+20:22:08 [INFO] Listening websockets on /0.0.0.0:1
+20:22:08 [INFO] Server bans.txt changed, it will be reloaded automatically
+20:22:08 [INFO] Reload complete
+20:22:08 [INFO] Listening on /127.11.0.1:40555
+11:56:04 [INFO] Enabled BungeeCord version unknown
+11:56:05 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+11:56:05 [INFO] Listening websockets on /0.0.0.0:1
+11:56:05 [INFO] Server bans.txt changed, it will be reloaded automatically
+11:56:05 [INFO] Reload complete
+11:56:06 [INFO] Listening on /127.11.0.1:42033
+12:51:42 [INFO] Enabled BungeeCord version unknown
+12:51:43 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+12:51:43 [INFO] Listening websockets on /0.0.0.0:1
+12:51:44 [INFO] Server bans.txt changed, it will be reloaded automatically
+12:51:44 [INFO] Reload complete
+12:51:44 [INFO] Listening on /127.11.0.1:34435
+12:53:26 [INFO] Enabled BungeeCord version unknown
+12:53:47 [INFO] Enabled BungeeCord version unknown
+12:53:48 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+12:53:48 [INFO] Listening websockets on /0.0.0.0:1
+12:53:49 [INFO] Server bans.txt changed, it will be reloaded automatically
+12:53:49 [INFO] Reload complete
+12:53:49 [INFO] Listening on /127.11.0.1:43581
+12:56:23 [INFO] Enabled BungeeCord version unknown
+12:56:24 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+12:56:24 [INFO] Listening websockets on /0.0.0.0:1
+12:56:24 [INFO] Server bans.txt changed, it will be reloaded automatically
+12:56:24 [INFO] Reload complete
+12:56:24 [INFO] Listening on /127.11.0.1:45939
+13:25:06 [INFO] [MissionImposible] <-> InitialHandler has connected
+13:25:07 [INFO] Player 'MissionImposible' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+13:25:07 [INFO] [MissionImposible] <-> ServerConnector [lobby] has connected
+13:26:37 [INFO] [MissionImposible] -> UpstreamBridge has disconnected
+13:26:37 [INFO] [MissionImposible] <-> DownstreamBridge <-> [lobby] has disconnected
+13:29:19 [INFO] [MissionImposible] <-> InitialHandler has connected
+13:29:19 [INFO] Player 'MissionImposible' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+13:29:19 [INFO] [MissionImposible] <-> ServerConnector [lobby] has connected
+13:35:54 [WARNING] [MissionImposible] -> UpstreamBridge - read timed out
+13:35:54 [INFO] [MissionImposible] disconnected with: ReadTimeoutException : null
+13:35:54 [INFO] [MissionImposible] -> UpstreamBridge has disconnected
+13:35:54 [INFO] [MissionImposible] <-> DownstreamBridge <-> [lobby] has disconnected
+13:35:54 [SEVERE] May 06, 2022 1:35:54 PM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+13:35:54 [SEVERE] May 06, 2022 1:35:54 PM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+13:35:54 [SEVERE] May 06, 2022 1:35:54 PM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 0 channel(s) to the new Selector.
+
+13:35:54 [SEVERE] May 06, 2022 1:35:54 PM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 1 channel(s) to the new Selector.
+
+13:38:54 [INFO] Enabled BungeeCord version unknown
+13:38:54 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+13:38:55 [INFO] Listening websockets on /0.0.0.0:1
+13:38:55 [INFO] Server bans.txt changed, it will be reloaded automatically
+13:38:55 [INFO] Reload complete
+13:38:55 [INFO] Listening on /127.11.0.1:46839
+13:39:11 [INFO] [MissionImposible] <-> InitialHandler has connected
+13:39:11 [INFO] WARNING: player 'MissionImposible' doesn't have a websocket IP, remote address: /127.0.0.1:52188
+13:39:11 [INFO] [MissionImposible] -> UpstreamBridge has disconnected
+13:39:11 [INFO] [MissionImposible] <-> ServerConnector [lobby] has connected
+13:39:19 [INFO] [MissionImposible] <-> InitialHandler has connected
+13:39:19 [INFO] Player 'MissionImposible' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+13:39:19 [INFO] [MissionImposible] <-> ServerConnector [lobby] has connected
+13:39:21 [INFO] [MissionImposible] <-> DownstreamBridge <-> [lobby] has disconnected
+13:42:02 [INFO] [MissionImposible] -> UpstreamBridge has disconnected
+13:42:02 [INFO] [MissionImposible] <-> DownstreamBridge <-> [lobby] has disconnected
+13:43:28 [INFO] [MissionImposible] <-> InitialHandler has connected
+13:43:28 [INFO] Player 'MissionImposible' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+13:43:28 [INFO] [MissionImposible] <-> ServerConnector [lobby] has connected
+13:44:10 [WARNING] [MissionImposible] -> UpstreamBridge - read timed out
+13:44:10 [INFO] [MissionImposible] disconnected with: ReadTimeoutException : null
+13:44:10 [INFO] [MissionImposible] -> UpstreamBridge has disconnected
+13:44:10 [INFO] [MissionImposible] <-> DownstreamBridge <-> [lobby] has disconnected
+13:45:12 [INFO] [MissionImposible] <-> InitialHandler has connected
+13:45:12 [INFO] Player 'MissionImposible' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+13:45:12 [INFO] [MissionImposible] <-> ServerConnector [lobby] has connected
+13:46:16 [INFO] [MissionImposible] -> UpstreamBridge has disconnected
+13:46:16 [INFO] [MissionImposible] <-> DownstreamBridge <-> [lobby] has disconnected
+13:48:10 [INFO] [MissionImposible] <-> InitialHandler has connected
+13:48:10 [INFO] Player 'MissionImposible' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+13:48:11 [INFO] [MissionImposible] <-> ServerConnector [lobby] has connected
+13:50:04 [INFO] [MissionImposible] -> UpstreamBridge has disconnected
+13:50:04 [INFO] [MissionImposible] <-> DownstreamBridge <-> [lobby] has disconnected
+13:54:49 [INFO] [-EmiX] <-> InitialHandler has connected
+13:54:49 [INFO] Player '-EmiX' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+13:54:49 [INFO] [-EmiX] <-> ServerConnector [lobby] has connected
+13:55:51 [INFO] [-EmiX] -> UpstreamBridge has disconnected
+13:55:51 [INFO] [-EmiX] <-> DownstreamBridge <-> [lobby] has disconnected
+13:56:16 [INFO] [missionposible] <-> InitialHandler has connected
+13:56:16 [INFO] Player 'missionposible' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+13:56:16 [INFO] [missionposible] <-> ServerConnector [lobby] has connected
+13:56:21 [INFO] [JTP] <-> InitialHandler has connected
+13:56:21 [INFO] Player 'JTP' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+13:56:21 [INFO] [JTP] <-> ServerConnector [lobby] has connected
+14:13:20 [INFO] [bruh] <-> InitialHandler has connected
+14:13:20 [INFO] Player 'bruh' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+14:13:20 [INFO] [bruh] <-> ServerConnector [lobby] has connected
+14:22:39 [INFO] [JTP] -> UpstreamBridge has disconnected
+14:22:40 [INFO] [JTP] <-> DownstreamBridge <-> [lobby] has disconnected
+14:22:43 [INFO] [JTP] <-> InitialHandler has connected
+14:22:43 [INFO] Player 'JTP' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+14:22:44 [INFO] [JTP] <-> ServerConnector [lobby] has connected
+14:22:53 [INFO] [JTP] -> UpstreamBridge has disconnected
+14:22:53 [INFO] [JTP] <-> DownstreamBridge <-> [lobby] has disconnected
+14:23:02 [INFO] [JTP1] <-> InitialHandler has connected
+14:23:02 [INFO] Player 'JTP1' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+14:23:02 [INFO] [JTP1] <-> ServerConnector [lobby] has connected
+14:23:44 [INFO] [JTP1] -> UpstreamBridge has disconnected
+14:23:44 [INFO] [JTP1] <-> DownstreamBridge <-> [lobby] has disconnected
+14:23:53 [INFO] [JTP2] <-> InitialHandler has connected
+14:23:53 [INFO] Player 'JTP2' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+14:23:53 [INFO] [JTP2] <-> ServerConnector [lobby] has connected
+14:24:27 [INFO] [JTP2] -> UpstreamBridge has disconnected
+14:24:27 [INFO] [JTP2] <-> DownstreamBridge <-> [lobby] has disconnected
+14:24:39 [INFO] [JTP3] <-> InitialHandler has connected
+14:24:39 [INFO] Player 'JTP3' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+14:24:39 [INFO] [JTP3] <-> ServerConnector [lobby] has connected
+14:29:55 [INFO] [JTP3] -> UpstreamBridge has disconnected
+14:29:55 [INFO] [JTP3] <-> DownstreamBridge <-> [lobby] has disconnected
+14:31:53 [INFO] [bruh] -> UpstreamBridge has disconnected
+14:31:53 [INFO] [bruh] <-> DownstreamBridge <-> [lobby] has disconnected
+14:32:05 [INFO] [bruh] <-> InitialHandler has connected
+14:32:05 [INFO] Player 'bruh' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+14:32:05 [INFO] [bruh] <-> ServerConnector [lobby] has connected
+14:32:17 [INFO] [bruh] -> UpstreamBridge has disconnected
+14:32:17 [INFO] [bruh] <-> DownstreamBridge <-> [lobby] has disconnected
+14:32:23 [INFO] [missionposible] -> UpstreamBridge has disconnected
+14:32:23 [INFO] [missionposible] <-> DownstreamBridge <-> [lobby] has disconnected
+14:36:00 [INFO] [missionposible] <-> InitialHandler has connected
+14:36:00 [INFO] Player 'missionposible' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+14:36:01 [INFO] [missionposible] <-> ServerConnector [lobby] has connected
+14:36:39 [INFO] [missionposible] -> UpstreamBridge has disconnected
+14:40:59 [INFO] Enabled BungeeCord version unknown
+14:41:00 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+14:41:00 [INFO] Listening websockets on /0.0.0.0:1
+14:41:01 [INFO] Server bans.txt changed, it will be reloaded automatically
+14:41:01 [INFO] Listening on /127.11.0.1:43525
+14:41:01 [INFO] Reload complete
+14:42:03 [INFO] [MissionImposible] <-> InitialHandler has connected
+14:42:03 [INFO] Player 'MissionImposible' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+14:42:03 [INFO] [MissionImposible] <-> ServerConnector [lobby] has connected
+14:42:33 [INFO] [MissionImposible] -> UpstreamBridge has disconnected
+14:42:33 [INFO] [MissionImposible] <-> DownstreamBridge <-> [lobby] has disconnected
+15:02:26 [INFO] Enabled BungeeCord version unknown
+15:02:27 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:02:27 [INFO] Listening websockets on /0.0.0.0:1
+15:02:28 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:02:28 [INFO] Reload complete
+15:02:28 [INFO] Listening on /127.11.0.1:40091
+15:03:20 [INFO] [MissionImposible] <-> InitialHandler has connected
+15:03:20 [INFO] Player 'MissionImposible' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+15:03:20 [INFO] [MissionImposible] <-> ServerConnector [lobby] has connected
+15:04:24 [SEVERE] org.java_websocket.exceptions.WebsocketNotConnectedException
+15:04:24 [SEVERE] 	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:628)
+15:04:24 [SEVERE] 	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:618)
+15:04:24 [SEVERE] 	at net.md_5.bungee.eaglercraft.WebSocketProxy.messageReceived(WebSocketProxy.java:91)
+15:04:24 [SEVERE] 	at net.md_5.bungee.eaglercraft.WebSocketProxy.messageReceived(WebSocketProxy.java:1)
+15:04:24 [SEVERE] 	at io.netty.channel.SimpleChannelInboundHandler.messageReceived(SimpleChannelInboundHandler.java:84)
+15:04:24 [SEVERE] 	at io.netty.channel.DefaultChannelHandlerContext.invokeMessageReceived(DefaultChannelHandlerContext.java:379)
+15:04:24 [SEVERE] 	at io.netty.channel.DefaultChannelHandlerContext.fireMessageReceived(DefaultChannelHandlerContext.java:364)
+15:04:24 [SEVERE] 	at io.netty.channel.DefaultChannelPipeline.fireMessageReceived(DefaultChannelPipeline.java:786)
+15:04:24 [SEVERE] 	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:120)
+15:04:24 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:489)
+15:04:24 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:464)
+15:04:24 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:358)
+15:04:24 [SEVERE] 	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101)
+15:04:24 [SEVERE] 	at java.lang.Thread.run(Thread.java:748)
+15:04:24 [INFO] [MissionImposible] disconnected with: [Proxy] Lost connection to server.
+15:04:24 [INFO] [MissionImposible] <-> DownstreamBridge <-> [lobby] has disconnected
+15:04:24 [INFO] [MissionImposible] -> UpstreamBridge has disconnected
+15:04:24 [SEVERE] May 06, 2022 3:04:24 PM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+15:04:24 [SEVERE] May 06, 2022 3:04:24 PM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 1 channel(s) to the new Selector.
+
+15:17:38 [INFO] Enabled BungeeCord version unknown
+15:17:39 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:17:39 [INFO] Listening websockets on /0.0.0.0:1
+15:17:39 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:17:39 [INFO] Reload complete
+15:17:39 [INFO] Listening on /127.11.0.1:39281
+15:18:14 [INFO] Enabled BungeeCord version unknown
+15:18:15 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:18:15 [INFO] Listening websockets on /0.0.0.0:1
+15:18:15 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:18:15 [INFO] Reload complete
+15:18:15 [INFO] Listening on /127.11.0.1:45093
+15:19:28 [INFO] [MissionImposible] <-> InitialHandler has connected
+15:19:28 [INFO] Player 'MissionImposible' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+15:19:28 [INFO] [MissionImposible] <-> ServerConnector [lobby] has connected
+15:21:48 [INFO] [MissionImposible] -> UpstreamBridge has disconnected
+15:21:48 [INFO] [MissionImposible] <-> DownstreamBridge <-> [lobby] has disconnected
+15:27:27 [INFO] [missionposible] <-> InitialHandler has connected
+15:27:27 [INFO] Player 'missionposible' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+15:27:27 [INFO] [missionposible] <-> ServerConnector [lobby] has connected
+15:30:50 [INFO] [MissionImposible] <-> InitialHandler has connected
+15:30:50 [INFO] Player 'MissionImposible' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+15:30:50 [INFO] [MissionImposible] <-> ServerConnector [lobby] has connected
+15:31:39 [INFO] [N_t] <-> InitialHandler has connected
+15:31:39 [INFO] Player 'N_t' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+15:31:39 [INFO] [N_t] <-> ServerConnector [lobby] has connected
+15:33:39 [INFO] [N_t] disconnected with: [Kicked] Flying is not enabled on this server
+15:33:39 [INFO] [N_t] -> UpstreamBridge has disconnected
+15:33:39 [INFO] [N_t] <-> DownstreamBridge <-> [lobby] has disconnected
+15:33:53 [INFO] [N_t] <-> InitialHandler has connected
+15:33:53 [INFO] Player 'N_t' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+15:33:53 [INFO] [N_t] <-> ServerConnector [lobby] has connected
+15:34:26 [INFO] [N_t] -> UpstreamBridge has disconnected
+15:34:26 [INFO] [N_t] <-> DownstreamBridge <-> [lobby] has disconnected
+15:34:43 [INFO] [Notch] <-> InitialHandler has connected
+15:34:43 [INFO] Player 'Notch' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+15:34:43 [INFO] [Notch] <-> ServerConnector [lobby] has connected
+15:39:11 [SEVERE] org.java_websocket.exceptions.WebsocketNotConnectedException
+15:39:11 [SEVERE] 	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:628)
+15:39:11 [SEVERE] 	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:618)
+15:39:11 [SEVERE] 	at net.md_5.bungee.eaglercraft.WebSocketProxy.messageReceived(WebSocketProxy.java:91)
+15:39:11 [SEVERE] 	at net.md_5.bungee.eaglercraft.WebSocketProxy.messageReceived(WebSocketProxy.java:1)
+15:39:11 [SEVERE] 	at io.netty.channel.SimpleChannelInboundHandler.messageReceived(SimpleChannelInboundHandler.java:84)
+15:39:11 [SEVERE] 	at io.netty.channel.DefaultChannelHandlerContext.invokeMessageReceived(DefaultChannelHandlerContext.java:379)
+15:39:11 [SEVERE] 	at io.netty.channel.DefaultChannelHandlerContext.fireMessageReceived(DefaultChannelHandlerContext.java:364)
+15:39:11 [SEVERE] 	at io.netty.channel.DefaultChannelPipeline.fireMessageReceived(DefaultChannelPipeline.java:786)
+15:39:11 [SEVERE] 	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:120)
+15:39:11 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:489)
+15:39:11 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:464)
+15:39:11 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:358)
+15:39:11 [SEVERE] 	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101)
+15:39:11 [SEVERE] 	at java.lang.Thread.run(Thread.java:748)
+15:39:11 [WARNING] [Notch] -> UpstreamBridge - IOException: Connection reset by peer
+15:39:11 [INFO] [Notch] disconnected with: IOException : Connection reset by peer @ sun.nio.ch.FileDispatcherImpl:-2
+15:39:11 [INFO] [Notch] -> UpstreamBridge has disconnected
+15:39:11 [INFO] [Notch] <-> DownstreamBridge <-> [lobby] has disconnected
+15:40:40 [INFO] [missionposible] -> UpstreamBridge has disconnected
+15:40:40 [INFO] [missionposible] <-> DownstreamBridge <-> [lobby] has disconnected
+15:40:45 [INFO] [MissionImposible] -> UpstreamBridge has disconnected
+15:40:45 [INFO] [MissionImposible] <-> DownstreamBridge <-> [lobby] has disconnected
+15:43:06 [INFO] Enabled BungeeCord version unknown
+15:43:07 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:43:07 [INFO] Listening websockets on /0.0.0.0:1
+15:43:08 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:43:08 [INFO] Listening on /127.11.0.1:44385
+15:43:08 [INFO] Reload complete
+15:48:28 [INFO] Enabled BungeeCord version unknown
+15:48:29 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:48:29 [INFO] Listening websockets on /0.0.0.0:1
+15:48:29 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:48:29 [INFO] Reload complete
+15:48:29 [INFO] Listening on /127.11.0.1:45513
+15:49:06 [INFO] [missionposible] <-> InitialHandler has connected
+15:49:06 [INFO] Player 'missionposible' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+15:49:06 [INFO] [missionposible] <-> ServerConnector [lobby] has connected
+15:49:26 [INFO] [MissionImposible] <-> InitialHandler has connected
+15:49:26 [INFO] Player 'MissionImposible' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+15:49:26 [INFO] [MissionImposible] <-> ServerConnector [lobby] has connected
+15:49:48 [SEVERE] org.java_websocket.exceptions.WebsocketNotConnectedException
+15:49:48 [SEVERE] 	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:628)
+15:49:48 [SEVERE] 	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:618)
+15:49:48 [SEVERE] 	at net.md_5.bungee.eaglercraft.WebSocketProxy.messageReceived(WebSocketProxy.java:91)
+15:49:48 [SEVERE] 	at net.md_5.bungee.eaglercraft.WebSocketProxy.messageReceived(WebSocketProxy.java:1)
+15:49:48 [SEVERE] 	at io.netty.channel.SimpleChannelInboundHandler.messageReceived(SimpleChannelInboundHandler.java:84)
+15:49:48 [SEVERE] 	at io.netty.channel.DefaultChannelHandlerContext.invokeMessageReceived(DefaultChannelHandlerContext.java:379)
+15:49:48 [SEVERE] 	at io.netty.channel.DefaultChannelHandlerContext.fireMessageReceived(DefaultChannelHandlerContext.java:364)
+15:49:48 [SEVERE] 	at io.netty.channel.DefaultChannelPipeline.fireMessageReceived(DefaultChannelPipeline.java:786)
+15:49:48 [SEVERE] 	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:120)
+15:49:48 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:489)
+15:49:48 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:464)
+15:49:48 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:358)
+15:49:48 [SEVERE] 	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101)
+15:49:48 [SEVERE] 	at java.lang.Thread.run(Thread.java:748)
+15:49:49 [SEVERE] org.java_websocket.exceptions.WebsocketNotConnectedException
+15:49:49 [SEVERE] 	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:628)
+15:49:49 [SEVERE] 	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:618)
+15:49:49 [SEVERE] 	at net.md_5.bungee.eaglercraft.WebSocketProxy.messageReceived(WebSocketProxy.java:91)
+15:49:49 [SEVERE] 	at net.md_5.bungee.eaglercraft.WebSocketProxy.messageReceived(WebSocketProxy.java:1)
+15:49:49 [SEVERE] 	at io.netty.channel.SimpleChannelInboundHandler.messageReceived(SimpleChannelInboundHandler.java:84)
+15:49:49 [SEVERE] 	at io.netty.channel.DefaultChannelHandlerContext.invokeMessageReceived(DefaultChannelHandlerContext.java:379)
+15:49:49 [SEVERE] 	at io.netty.channel.DefaultChannelHandlerContext.fireMessageReceived(DefaultChannelHandlerContext.java:364)
+15:49:49 [SEVERE] 	at io.netty.channel.DefaultChannelPipeline.fireMessageReceived(DefaultChannelPipeline.java:786)
+15:49:49 [SEVERE] 	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:120)
+15:49:49 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:489)
+15:49:49 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:464)
+15:49:49 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:358)
+15:49:49 [SEVERE] 	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101)
+15:49:49 [SEVERE] 	at java.lang.Thread.run(Thread.java:748)
+15:49:49 [INFO] [missionposible] -> UpstreamBridge has disconnected
+15:49:49 [INFO] [missionposible] <-> DownstreamBridge <-> [lobby] has disconnected
+15:49:50 [INFO] [MissionImposible] -> UpstreamBridge has disconnected
+15:49:51 [INFO] [MissionImposible] <-> DownstreamBridge <-> [lobby] has disconnected
+15:50:22 [INFO] Enabled BungeeCord version unknown
+15:50:23 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:50:23 [INFO] Listening websockets on /0.0.0.0:1
+15:50:23 [SEVERE] java.net.BindException: Address already in use
+15:50:23 [SEVERE] 	at sun.nio.ch.Net.bind0(Native Method)
+15:50:23 [SEVERE] 	at sun.nio.ch.Net.bind(Net.java:461)
+15:50:23 [SEVERE] 	at sun.nio.ch.Net.bind(Net.java:453)
+15:50:23 [SEVERE] 	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:222)
+15:50:23 [SEVERE] 	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:85)
+15:50:23 [SEVERE] 	at org.java_websocket.server.WebSocketServer.doSetupSelectorAndServerThread(WebSocketServer.java:533)
+15:50:23 [SEVERE] 	at org.java_websocket.server.WebSocketServer.run(WebSocketServer.java:341)
+15:50:23 [SEVERE] 	at java.lang.Thread.run(Thread.java:748)
+15:50:24 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:50:24 [INFO] Reload complete
+15:50:24 [INFO] Listening on /127.11.0.1:38895
+15:51:05 [INFO] Enabled BungeeCord version unknown
+15:51:06 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:51:07 [INFO] Listening websockets on /0.0.0.0:1
+15:51:07 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:51:07 [INFO] Listening on /127.11.0.1:34829
+15:51:07 [INFO] Reload complete
+15:51:39 [INFO] [MissionImposible] <-> InitialHandler has connected
+15:51:39 [INFO] Player 'MissionImposible' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+15:51:39 [INFO] [MissionImposible] <-> ServerConnector [lobby] has connected
+15:52:46 [SEVERE] org.java_websocket.exceptions.WebsocketNotConnectedException
+15:52:46 [SEVERE] 	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:628)
+15:52:46 [SEVERE] 	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:618)
+15:52:46 [SEVERE] 	at net.md_5.bungee.eaglercraft.WebSocketProxy.messageReceived(WebSocketProxy.java:91)
+15:52:46 [SEVERE] 	at net.md_5.bungee.eaglercraft.WebSocketProxy.messageReceived(WebSocketProxy.java:1)
+15:52:46 [SEVERE] 	at io.netty.channel.SimpleChannelInboundHandler.messageReceived(SimpleChannelInboundHandler.java:84)
+15:52:46 [SEVERE] 	at io.netty.channel.DefaultChannelHandlerContext.invokeMessageReceived(DefaultChannelHandlerContext.java:379)
+15:52:46 [SEVERE] 	at io.netty.channel.DefaultChannelHandlerContext.fireMessageReceived(DefaultChannelHandlerContext.java:364)
+15:52:46 [SEVERE] 	at io.netty.channel.DefaultChannelPipeline.fireMessageReceived(DefaultChannelPipeline.java:786)
+15:52:46 [SEVERE] 	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:120)
+15:52:46 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:489)
+15:52:46 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:464)
+15:52:46 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:358)
+15:52:46 [SEVERE] 	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101)
+15:52:46 [SEVERE] 	at java.lang.Thread.run(Thread.java:748)
+15:52:46 [INFO] [MissionImposible] -> UpstreamBridge has disconnected
+15:52:46 [INFO] [MissionImposible] <-> DownstreamBridge <-> [lobby] has disconnected
+15:52:50 [INFO] [missionposible] <-> InitialHandler has connected
+15:52:50 [INFO] Player 'missionposible' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+15:52:50 [INFO] [missionposible] <-> ServerConnector [lobby] has connected
+15:53:38 [SEVERE] org.java_websocket.exceptions.WebsocketNotConnectedException
+15:53:38 [SEVERE] 	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:628)
+15:53:38 [SEVERE] 	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:618)
+15:53:38 [SEVERE] 	at net.md_5.bungee.eaglercraft.WebSocketProxy.messageReceived(WebSocketProxy.java:91)
+15:53:38 [SEVERE] 	at net.md_5.bungee.eaglercraft.WebSocketProxy.messageReceived(WebSocketProxy.java:1)
+15:53:38 [SEVERE] 	at io.netty.channel.SimpleChannelInboundHandler.messageReceived(SimpleChannelInboundHandler.java:84)
+15:53:38 [SEVERE] 	at io.netty.channel.DefaultChannelHandlerContext.invokeMessageReceived(DefaultChannelHandlerContext.java:379)
+15:53:38 [SEVERE] 	at io.netty.channel.DefaultChannelHandlerContext.fireMessageReceived(DefaultChannelHandlerContext.java:364)
+15:53:38 [SEVERE] 	at io.netty.channel.DefaultChannelPipeline.fireMessageReceived(DefaultChannelPipeline.java:786)
+15:53:38 [SEVERE] 	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:120)
+15:53:38 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:489)
+15:53:38 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:464)
+15:53:38 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:358)
+15:53:38 [SEVERE] 	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101)
+15:53:38 [SEVERE] 	at java.lang.Thread.run(Thread.java:748)
+15:53:38 [INFO] [missionposible] -> UpstreamBridge has disconnected
+15:53:38 [INFO] [missionposible] <-> DownstreamBridge <-> [lobby] has disconnected
+15:53:46 [INFO] [missionposible] <-> InitialHandler has connected
+15:53:46 [INFO] Player 'missionposible' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+15:53:46 [INFO] [missionposible] <-> ServerConnector [lobby] has connected
+15:54:31 [SEVERE] org.java_websocket.exceptions.WebsocketNotConnectedException
+15:54:31 [SEVERE] 	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:628)
+15:54:31 [SEVERE] 	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:618)
+15:54:31 [SEVERE] 	at net.md_5.bungee.eaglercraft.WebSocketProxy.messageReceived(WebSocketProxy.java:91)
+15:54:31 [SEVERE] 	at net.md_5.bungee.eaglercraft.WebSocketProxy.messageReceived(WebSocketProxy.java:1)
+15:54:31 [SEVERE] 	at io.netty.channel.SimpleChannelInboundHandler.messageReceived(SimpleChannelInboundHandler.java:84)
+15:54:31 [SEVERE] 	at io.netty.channel.DefaultChannelHandlerContext.invokeMessageReceived(DefaultChannelHandlerContext.java:379)
+15:54:31 [SEVERE] 	at io.netty.channel.DefaultChannelHandlerContext.fireMessageReceived(DefaultChannelHandlerContext.java:364)
+15:54:31 [SEVERE] 	at io.netty.channel.DefaultChannelPipeline.fireMessageReceived(DefaultChannelPipeline.java:786)
+15:54:31 [SEVERE] 	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:120)
+15:54:31 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:489)
+15:54:31 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:464)
+15:54:31 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:358)
+15:54:31 [SEVERE] 	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101)
+15:54:31 [SEVERE] 	at java.lang.Thread.run(Thread.java:748)
+15:54:31 [WARNING] [missionposible] -> UpstreamBridge - IOException: Connection reset by peer
+15:54:31 [INFO] [missionposible] disconnected with: IOException : Connection reset by peer @ sun.nio.ch.FileDispatcherImpl:-2
+15:54:31 [INFO] [missionposible] -> UpstreamBridge has disconnected
+15:54:31 [INFO] [missionposible] <-> DownstreamBridge <-> [lobby] has disconnected
+15:59:33 [INFO] [MissionImposible] <-> InitialHandler has connected
+15:59:33 [INFO] Player 'MissionImposible' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+15:59:33 [INFO] [MissionImposible] <-> ServerConnector [lobby] has connected
+16:01:38 [INFO] [missionposible] <-> InitialHandler has connected
+16:01:38 [INFO] Player 'missionposible' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+16:01:38 [INFO] [missionposible] <-> ServerConnector [lobby] has connected
+16:02:11 [INFO] [MissionImposible] -> UpstreamBridge has disconnected
+16:02:11 [INFO] [MissionImposible] <-> DownstreamBridge <-> [lobby] has disconnected
+16:02:19 [INFO] [missionposible] -> UpstreamBridge has disconnected
+16:02:19 [INFO] [missionposible] <-> DownstreamBridge <-> [lobby] has disconnected
+16:02:47 [INFO] [MissionImposible] <-> InitialHandler has connected
+16:02:47 [INFO] Player 'MissionImposible' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+16:02:47 [INFO] [MissionImposible] <-> ServerConnector [lobby] has connected
+16:07:02 [INFO] [missionposible] <-> InitialHandler has connected
+16:07:02 [INFO] Player 'missionposible' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+16:07:03 [INFO] [missionposible] <-> ServerConnector [lobby] has connected
+16:11:47 [WARNING] [missionposible] -> UpstreamBridge - read timed out
+16:11:47 [INFO] [missionposible] disconnected with: ReadTimeoutException : null
+16:11:47 [INFO] [missionposible] -> UpstreamBridge has disconnected
+16:11:47 [SEVERE] May 06, 2022 4:11:47 PM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+16:11:47 [INFO] [missionposible] <-> DownstreamBridge <-> [lobby] has disconnected
+16:11:47 [SEVERE] May 06, 2022 4:11:47 PM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 0 channel(s) to the new Selector.
+
+16:12:00 [INFO] [missionposible] <-> InitialHandler has connected
+16:12:00 [INFO] Player 'missionposible' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+16:12:00 [INFO] [missionposible] <-> ServerConnector [lobby] has connected
+16:15:19 [INFO] [missionposible] -> UpstreamBridge has disconnected
+16:15:19 [INFO] [missionposible] <-> DownstreamBridge <-> [lobby] has disconnected
+16:15:21 [INFO] [MissionImposible] -> UpstreamBridge has disconnected
+16:15:21 [INFO] [MissionImposible] <-> DownstreamBridge <-> [lobby] has disconnected
+16:22:52 [INFO] [MissionImposible] <-> InitialHandler has connected
+16:22:52 [INFO] Player 'MissionImposible' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+16:22:53 [INFO] [MissionImposible] <-> ServerConnector [lobby] has connected
+16:23:17 [INFO] [missionposible] <-> InitialHandler has connected
+16:23:17 [INFO] Player 'missionposible' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+16:23:17 [INFO] [missionposible] <-> ServerConnector [lobby] has connected
+16:26:10 [WARNING] [MissionImposible] -> UpstreamBridge - read timed out
+16:26:10 [INFO] [MissionImposible] disconnected with: ReadTimeoutException : null
+16:26:10 [INFO] [MissionImposible] -> UpstreamBridge has disconnected
+16:26:10 [INFO] [MissionImposible] <-> DownstreamBridge <-> [lobby] has disconnected
+16:27:32 [INFO] [missionposible] -> UpstreamBridge has disconnected
+16:27:32 [INFO] [missionposible] <-> DownstreamBridge <-> [lobby] has disconnected
+16:53:18 [INFO] [missionposible] <-> InitialHandler has connected
+16:53:18 [INFO] Player 'missionposible' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+16:53:18 [INFO] [missionposible] <-> ServerConnector [lobby] has connected
+17:08:41 [SEVERE] org.java_websocket.exceptions.WebsocketNotConnectedException
+17:08:41 [SEVERE] 	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:628)
+17:08:41 [SEVERE] 	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:618)
+17:08:41 [SEVERE] 	at net.md_5.bungee.eaglercraft.WebSocketProxy.messageReceived(WebSocketProxy.java:91)
+17:08:41 [SEVERE] 	at net.md_5.bungee.eaglercraft.WebSocketProxy.messageReceived(WebSocketProxy.java:1)
+17:08:41 [SEVERE] 	at io.netty.channel.SimpleChannelInboundHandler.messageReceived(SimpleChannelInboundHandler.java:84)
+17:08:41 [SEVERE] 	at io.netty.channel.DefaultChannelHandlerContext.invokeMessageReceived(DefaultChannelHandlerContext.java:379)
+17:08:41 [SEVERE] 	at io.netty.channel.DefaultChannelHandlerContext.fireMessageReceived(DefaultChannelHandlerContext.java:364)
+17:08:41 [SEVERE] 	at io.netty.channel.DefaultChannelPipeline.fireMessageReceived(DefaultChannelPipeline.java:786)
+17:08:41 [SEVERE] 	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:120)
+17:08:41 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:489)
+17:08:41 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:464)
+17:08:41 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:358)
+17:08:41 [SEVERE] 	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101)
+17:08:41 [SEVERE] 	at java.lang.Thread.run(Thread.java:748)
+17:08:41 [INFO] [missionposible] -> UpstreamBridge has disconnected
+17:08:41 [SEVERE] May 06, 2022 5:08:41 PM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+17:08:41 [SEVERE] May 06, 2022 5:08:41 PM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 2 channel(s) to the new Selector.
+
+17:08:41 [INFO] [missionposible] <-> DownstreamBridge <-> [lobby] has disconnected
+17:25:47 [INFO] [missionposible] <-> InitialHandler has connected
+17:25:47 [INFO] Player 'missionposible' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+17:25:47 [INFO] [missionposible] <-> ServerConnector [lobby] has connected
+17:25:57 [INFO] [missionposible] -> UpstreamBridge has disconnected
+17:25:57 [INFO] [missionposible] <-> DownstreamBridge <-> [lobby] has disconnected
+17:38:47 [INFO] [MissionImposible] <-> InitialHandler has connected
+17:38:47 [INFO] Player 'MissionImposible' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+17:38:47 [INFO] [MissionImposible] <-> ServerConnector [lobby] has connected
+17:45:16 [WARNING] [MissionImposible] <-> DownstreamBridge <-> [lobby] - IOException: Connection reset by peer
+17:45:16 [INFO] [MissionImposible] disconnected with: IOException : Connection reset by peer @ sun.nio.ch.FileDispatcherImpl:-2
+17:45:16 [INFO] [MissionImposible] -> UpstreamBridge has disconnected
+17:45:16 [INFO] [MissionImposible] <-> DownstreamBridge <-> [lobby] has disconnected
+17:45:29 [INFO] Enabled BungeeCord version unknown
+17:45:30 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+17:45:30 [INFO] Listening websockets on /0.0.0.0:1
+17:45:31 [INFO] Server bans.txt changed, it will be reloaded automatically
+17:45:31 [INFO] Reload complete
+17:45:31 [INFO] Listening on /127.11.0.1:39067
+17:45:38 [INFO] [MissionImposible] <-> InitialHandler has connected
+17:45:38 [INFO] Player 'MissionImposible' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+17:45:38 [INFO] [MissionImposible] <-> ServerConnector [lobby] has connected
+17:50:44 [INFO] [MissionImposible] -> UpstreamBridge has disconnected
+17:50:44 [INFO] [MissionImposible] <-> DownstreamBridge <-> [lobby] has disconnected
+19:38:49 [INFO] Enabled BungeeCord version unknown
+19:38:50 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+19:38:50 [INFO] Listening websockets on /0.0.0.0:1
+19:38:51 [INFO] Server bans.txt changed, it will be reloaded automatically
+19:38:51 [INFO] Listening on /127.11.0.1:40973
+19:38:51 [INFO] Reload complete
+20:43:12 [INFO] Enabled BungeeCord version unknown
+20:43:13 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+20:43:13 [INFO] Listening websockets on /0.0.0.0:1
+20:43:13 [INFO] Server bans.txt changed, it will be reloaded automatically
+20:43:14 [INFO] Reload complete
+20:43:14 [INFO] Listening on /127.11.0.1:35859
+16:32:30 [INFO] Enabled BungeeCord version unknown
+16:32:31 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+16:32:31 [INFO] Listening websockets on /0.0.0.0:1
+16:32:32 [INFO] Server bans.txt changed, it will be reloaded automatically
+16:32:32 [INFO] Reload complete
+16:32:32 [INFO] Listening on /127.11.0.1:34045
+17:02:36 [INFO] Enabled BungeeCord version unknown
+17:02:37 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+17:02:37 [INFO] Listening websockets on /0.0.0.0:1
+17:02:37 [INFO] Server bans.txt changed, it will be reloaded automatically
+17:02:37 [INFO] Reload complete
+17:02:37 [INFO] Listening on /127.11.0.1:38317
+17:02:41 [INFO] [missionImposible] <-> InitialHandler has connected
+17:02:41 [INFO] Player 'missionImposible' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+17:02:42 [INFO] [missionImposible] <-> ServerConnector [lobby] has connected
+17:02:42 [INFO] [missionImposible] <-> ServerConnector [lobby] has disconnected
+17:02:51 [INFO] [missionImposible] -> UpstreamBridge has disconnected
+17:02:53 [INFO] [missionImposible] <-> InitialHandler has connected
+17:02:53 [INFO] Player 'missionImposible' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+17:02:54 [INFO] [missionImposible] <-> ServerConnector [lobby] has connected
+17:03:38 [INFO] [missionImposible] -> UpstreamBridge has disconnected
+17:03:38 [SEVERE] java.lang.NullPointerException
+17:03:38 [SEVERE] 	at net.md_5.bungee.eaglercraft.WebSocketListener.onOpen(WebSocketListener.java:230)
+17:03:38 [SEVERE] 	at org.java_websocket.server.WebSocketServer.onWebsocketOpen(WebSocketServer.java:685)
+17:03:38 [SEVERE] 	at org.java_websocket.WebSocketImpl.open(WebSocketImpl.java:716)
+17:03:38 [SEVERE] 	at org.java_websocket.WebSocketImpl.decodeHandshake(WebSocketImpl.java:286)
+17:03:38 [SEVERE] 	at org.java_websocket.WebSocketImpl.decode(WebSocketImpl.java:219)
+17:03:38 [SEVERE] 	at org.java_websocket.server.WebSocketServer$WebSocketWorker.doDecode(WebSocketServer.java:1046)
+17:03:38 [SEVERE] 	at org.java_websocket.server.WebSocketServer$WebSocketWorker.run(WebSocketServer.java:1028)
+17:03:38 [INFO] [missionImposible] <-> DownstreamBridge <-> [lobby] has disconnected
+17:32:08 [INFO] Enabled BungeeCord version unknown
+17:32:09 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+17:32:09 [INFO] Listening websockets on /0.0.0.0:1
+17:32:09 [INFO] Server bans.txt changed, it will be reloaded automatically
+17:32:10 [INFO] Listening on /127.11.0.1:35605
+17:32:10 [INFO] Reload complete
+17:34:57 [INFO] Enabled BungeeCord version unknown
+17:34:58 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+17:34:59 [INFO] Listening websockets on /0.0.0.0:1
+17:34:59 [INFO] Server bans.txt changed, it will be reloaded automatically
+17:34:59 [INFO] Reload complete
+17:34:59 [INFO] Listening on /127.11.0.1:43475
+17:35:55 [INFO] Enabled BungeeCord version unknown
+17:35:56 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+17:35:57 [INFO] Listening websockets on /0.0.0.0:1
+17:35:57 [INFO] Server bans.txt changed, it will be reloaded automatically
+17:35:57 [INFO] Reload complete
+17:35:57 [INFO] Listening on /127.11.0.1:37373
+17:40:44 [INFO] Enabled BungeeCord version unknown
+17:40:45 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+17:40:45 [INFO] Listening websockets on /0.0.0.0:1
+17:40:46 [INFO] Server bans.txt changed, it will be reloaded automatically
+17:40:46 [INFO] Reload complete
+17:40:46 [INFO] Listening on /127.11.0.1:34723
+17:41:37 [INFO] [markowner] <-> InitialHandler has connected
+17:41:37 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+17:41:38 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+17:41:43 [INFO] [markowner] -> UpstreamBridge has disconnected
+17:41:44 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+17:44:20 [INFO] Enabled BungeeCord version unknown
+17:44:21 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+17:44:21 [INFO] Listening websockets on /0.0.0.0:1
+17:44:21 [INFO] Server bans.txt changed, it will be reloaded automatically
+17:44:21 [INFO] Reload complete
+17:44:22 [INFO] Listening on /127.11.0.1:37229
+17:46:08 [INFO] [markowner] <-> InitialHandler has connected
+17:46:08 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+17:46:08 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+18:07:06 [INFO] [markowner] -> UpstreamBridge has disconnected
+18:07:06 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+18:07:49 [INFO] Enabled BungeeCord version unknown
+18:07:50 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+18:07:50 [INFO] Listening websockets on /0.0.0.0:1
+18:07:50 [SEVERE] java.net.BindException: Address already in use
+18:07:50 [SEVERE] 	at sun.nio.ch.Net.bind0(Native Method)
+18:07:50 [SEVERE] 	at sun.nio.ch.Net.bind(Net.java:461)
+18:07:50 [SEVERE] 	at sun.nio.ch.Net.bind(Net.java:453)
+18:07:50 [SEVERE] 	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:222)
+18:07:50 [SEVERE] 	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:85)
+18:07:50 [SEVERE] 	at org.java_websocket.server.WebSocketServer.doSetupSelectorAndServerThread(WebSocketServer.java:533)
+18:07:50 [SEVERE] 	at org.java_websocket.server.WebSocketServer.run(WebSocketServer.java:341)
+18:07:50 [SEVERE] 	at java.lang.Thread.run(Thread.java:748)
+18:07:50 [INFO] Server bans.txt changed, it will be reloaded automatically
+18:07:51 [INFO] Reload complete
+18:07:51 [INFO] Listening on /127.11.0.1:43579
+18:08:35 [INFO] Enabled BungeeCord version unknown
+18:08:36 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+18:08:36 [INFO] Listening websockets on /0.0.0.0:1
+18:08:37 [INFO] Server bans.txt changed, it will be reloaded automatically
+18:08:37 [INFO] Reload complete
+18:08:37 [INFO] Listening on /127.11.0.1:45981
+18:09:00 [INFO] [markowner] <-> InitialHandler has connected
+18:09:00 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+18:09:00 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+18:14:29 [INFO] [markowner] -> UpstreamBridge has disconnected
+18:14:29 [WARNING] [markowner] <-> DownstreamBridge <-> [lobby] - IOException: Connection reset by peer
+18:14:29 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+18:14:33 [INFO] [markowner] <-> InitialHandler has connected
+18:14:33 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+18:14:34 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+18:29:11 [INFO] [markowner] -> UpstreamBridge has disconnected
+18:29:11 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+11:53:12 [INFO] Enabled BungeeCord version unknown
+11:53:13 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+11:53:13 [INFO] Listening websockets on /0.0.0.0:1
+11:53:13 [INFO] Server bans.txt changed, it will be reloaded automatically
+11:53:13 [INFO] Reload complete
+11:53:13 [INFO] Listening on /127.11.0.1:44941
+11:53:25 [INFO] [markowner] <-> InitialHandler has connected
+11:53:25 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+11:53:25 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+11:56:21 [INFO] [markowner] -> UpstreamBridge has disconnected
+11:56:21 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+11:56:21 [SEVERE] May 10, 2022 11:56:21 AM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+11:56:21 [SEVERE] May 10, 2022 11:56:21 AM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 1 channel(s) to the new Selector.
+
+11:59:24 [INFO] [markowner] <-> InitialHandler has connected
+11:59:24 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+11:59:24 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+12:15:15 [INFO] [markowner] -> UpstreamBridge has disconnected
+12:15:15 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+12:17:07 [INFO] Enabled BungeeCord version unknown
+12:17:07 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+12:17:08 [INFO] Listening websockets on /0.0.0.0:1
+12:17:08 [INFO] Server bans.txt changed, it will be reloaded automatically
+12:17:08 [INFO] Reload complete
+12:17:08 [INFO] Listening on /127.11.0.1:33559
+12:21:49 [INFO] Enabled BungeeCord version unknown
+12:21:49 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+12:21:49 [INFO] Listening websockets on /0.0.0.0:1
+12:21:50 [INFO] Server bans.txt changed, it will be reloaded automatically
+12:21:50 [INFO] Reload complete
+12:21:50 [INFO] Listening on /127.11.0.1:41781
+12:23:26 [INFO] [markowner] <-> InitialHandler has connected
+12:23:26 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+12:23:26 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+12:27:32 [INFO] [markowner] -> UpstreamBridge has disconnected
+12:27:32 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+14:46:33 [INFO] Enabled BungeeCord version unknown
+14:46:35 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+14:46:36 [INFO] Listening websockets on /0.0.0.0:1
+14:46:37 [INFO] Server bans.txt changed, it will be reloaded automatically
+14:46:37 [INFO] Listening on /127.11.0.1:38615
+14:46:37 [INFO] Reload complete
+15:30:38 [INFO] Enabled BungeeCord version unknown
+15:30:39 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:30:39 [INFO] Listening websockets on /0.0.0.0:1
+15:30:40 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:30:40 [INFO] Reload complete
+15:30:41 [INFO] Listening on /127.11.0.1:38187
+16:22:00 [INFO] [markowner] <-> InitialHandler has connected
+16:22:00 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+16:22:01 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+16:22:30 [WARNING] [markowner] -> UpstreamBridge - read timed out
+16:22:30 [INFO] [markowner] disconnected with: ReadTimeoutException : null
+16:22:30 [INFO] [markowner] -> UpstreamBridge has disconnected
+16:22:30 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+16:29:19 [INFO] Enabled BungeeCord version unknown
+16:29:20 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+16:29:20 [INFO] Listening websockets on /0.0.0.0:1
+16:29:20 [INFO] Listening on /127.11.0.1:34897
+16:29:20 [INFO] Server bans.txt changed, it will be reloaded automatically
+16:29:20 [INFO] Reload complete
+16:30:17 [INFO] [markowner] <-> InitialHandler has connected
+16:30:17 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+16:30:17 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+16:36:39 [INFO] [markowner] -> UpstreamBridge has disconnected
+16:36:39 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+16:37:50 [INFO] [markowner] <-> InitialHandler has connected
+16:37:50 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+16:37:50 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+16:41:05 [INFO] [chipopu] <-> InitialHandler has connected
+16:41:05 [INFO] Player 'chipopu' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+16:41:05 [INFO] [chipopu] <-> ServerConnector [lobby] has connected
+16:44:50 [WARNING] [chipopu] -> UpstreamBridge - read timed out
+16:44:50 [INFO] [chipopu] disconnected with: ReadTimeoutException : null
+16:44:50 [INFO] [chipopu] -> UpstreamBridge has disconnected
+16:44:50 [SEVERE] May 10, 2022 4:44:50 PM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+16:44:50 [SEVERE] May 10, 2022 4:44:50 PM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 0 channel(s) to the new Selector.
+
+16:44:50 [INFO] [chipopu] <-> DownstreamBridge <-> [lobby] has disconnected
+16:45:01 [INFO] [chipopu] <-> InitialHandler has connected
+16:45:01 [INFO] Player 'chipopu' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+16:45:02 [INFO] [chipopu] <-> ServerConnector [lobby] has connected
+16:45:04 [INFO] [markowner] -> UpstreamBridge has disconnected
+16:45:04 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+16:45:09 [INFO] [chipopu] -> UpstreamBridge has disconnected
+16:45:09 [INFO] [chipopu] <-> DownstreamBridge <-> [lobby] has disconnected
+16:45:09 [SEVERE] May 10, 2022 4:45:09 PM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+16:45:09 [SEVERE] May 10, 2022 4:45:09 PM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 1 channel(s) to the new Selector.
+
+16:48:00 [INFO] [chipopu] <-> InitialHandler has connected
+16:48:00 [INFO] Player 'chipopu' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+16:48:00 [INFO] [chipopu] <-> ServerConnector [lobby] has connected
+16:48:14 [INFO] [chipopu] -> UpstreamBridge has disconnected
+16:48:14 [INFO] [chipopu] <-> DownstreamBridge <-> [lobby] has disconnected
+16:48:46 [INFO] [shinobu] <-> InitialHandler has connected
+16:48:46 [INFO] Player 'shinobu' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+16:48:46 [INFO] [shinobu] <-> ServerConnector [lobby] has connected
+16:49:41 [INFO] [shinobu] -> UpstreamBridge has disconnected
+16:49:41 [INFO] [shinobu] <-> DownstreamBridge <-> [lobby] has disconnected
+16:50:02 [INFO] [chingdo-902673-] <-> InitialHandler has connected
+16:50:02 [INFO] Player 'chingdo-902673-' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+16:50:02 [INFO] [chingdo-902673-] <-> ServerConnector [lobby] has connected
+16:50:52 [INFO] [chingdo-902673-] -> UpstreamBridge has disconnected
+16:50:52 [INFO] [chingdo-902673-] <-> DownstreamBridge <-> [lobby] has disconnected
+16:51:38 [INFO] [________________] <-> InitialHandler has connected
+16:51:38 [INFO] Player '________________' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+16:51:38 [INFO] [________________] <-> ServerConnector [lobby] has connected
+16:52:20 [SEVERE] org.java_websocket.exceptions.WebsocketNotConnectedException
+16:52:20 [SEVERE] 	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:628)
+16:52:20 [SEVERE] 	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:618)
+16:52:20 [SEVERE] 	at net.md_5.bungee.eaglercraft.WebSocketProxy.messageReceived(WebSocketProxy.java:91)
+16:52:20 [SEVERE] 	at net.md_5.bungee.eaglercraft.WebSocketProxy.messageReceived(WebSocketProxy.java:1)
+16:52:20 [SEVERE] 	at io.netty.channel.SimpleChannelInboundHandler.messageReceived(SimpleChannelInboundHandler.java:84)
+16:52:20 [SEVERE] 	at io.netty.channel.DefaultChannelHandlerContext.invokeMessageReceived(DefaultChannelHandlerContext.java:379)
+16:52:20 [SEVERE] 	at io.netty.channel.DefaultChannelHandlerContext.fireMessageReceived(DefaultChannelHandlerContext.java:364)
+16:52:20 [SEVERE] 	at io.netty.channel.DefaultChannelPipeline.fireMessageReceived(DefaultChannelPipeline.java:786)
+16:52:20 [SEVERE] 	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:120)
+16:52:20 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:489)
+16:52:20 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:464)
+16:52:20 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:358)
+16:52:20 [SEVERE] 	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101)
+16:52:20 [SEVERE] 	at java.lang.Thread.run(Thread.java:748)
+16:52:21 [WARNING] [________________] -> UpstreamBridge - IOException: Connection reset by peer
+16:52:21 [INFO] [________________] disconnected with: IOException : Connection reset by peer @ sun.nio.ch.FileDispatcherImpl:-2
+16:52:21 [INFO] [________________] -> UpstreamBridge has disconnected
+16:52:21 [INFO] [________________] <-> DownstreamBridge <-> [lobby] has disconnected
+16:52:45 [INFO] [EmiX] <-> InitialHandler has connected
+16:52:45 [INFO] Player 'EmiX' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+16:52:45 [INFO] [EmiX] <-> ServerConnector [lobby] has connected
+16:55:18 [INFO] [EmiX] -> UpstreamBridge has disconnected
+16:55:18 [INFO] [EmiX] <-> DownstreamBridge <-> [lobby] has disconnected
+16:55:21 [INFO] [EmiX] <-> InitialHandler has connected
+16:55:21 [INFO] Player 'EmiX' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+16:55:21 [INFO] [EmiX] <-> ServerConnector [lobby] has connected
+17:24:56 [INFO] [EmiX] -> UpstreamBridge has disconnected
+17:24:56 [INFO] [EmiX] <-> DownstreamBridge <-> [lobby] has disconnected
+12:01:24 [INFO] Enabled BungeeCord version unknown
+12:01:25 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+12:01:26 [INFO] Listening websockets on /0.0.0.0:1
+12:01:26 [INFO] Server bans.txt changed, it will be reloaded automatically
+12:01:26 [INFO] Reload complete
+12:01:26 [INFO] Listening on /127.11.0.1:36745
+12:01:33 [INFO] [markowner] <-> InitialHandler has connected
+12:01:34 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+12:01:34 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+12:08:00 [INFO] [EmiX] <-> InitialHandler has connected
+12:08:00 [INFO] Player 'EmiX' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+12:08:00 [INFO] [EmiX] <-> ServerConnector [lobby] has connected
+12:24:38 [INFO] [EmiX] -> UpstreamBridge has disconnected
+12:24:38 [INFO] [EmiX] <-> DownstreamBridge <-> [lobby] has disconnected
+12:31:30 [INFO] [EmiX] <-> InitialHandler has connected
+12:31:30 [INFO] Player 'EmiX' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+12:31:30 [INFO] [EmiX] <-> ServerConnector [lobby] has connected
+12:31:30 [INFO] [EmiX] disconnected with: §cKicked whilst connecting to lobby: you're a bitch
+12:31:30 [INFO] [EmiX] -> UpstreamBridge has disconnected
+12:31:32 [INFO] [EmiX] <-> ServerConnector [lobby] has disconnected
+12:31:50 [INFO] [EmiX] <-> InitialHandler has connected
+12:31:50 [INFO] Player 'EmiX' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+12:31:50 [INFO] [EmiX] <-> ServerConnector [lobby] has connected
+12:31:51 [INFO] [EmiX] disconnected with: §cKicked whilst connecting to lobby: you're a bitch
+12:31:51 [INFO] [EmiX] -> UpstreamBridge has disconnected
+12:31:53 [INFO] [EmiX] <-> ServerConnector [lobby] has disconnected
+12:32:06 [INFO] [Emix] <-> InitialHandler has connected
+12:32:06 [INFO] Player 'Emix' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+12:32:06 [INFO] [Emix] <-> ServerConnector [lobby] has connected
+12:32:06 [INFO] [Emix] disconnected with: §cKicked whilst connecting to lobby: you're a bitch
+12:32:06 [INFO] [Emix] -> UpstreamBridge has disconnected
+12:32:08 [INFO] [Emix] <-> ServerConnector [lobby] has disconnected
+12:32:22 [INFO] [makklooplg] <-> InitialHandler has connected
+12:32:22 [INFO] Player 'makklooplg' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+12:32:22 [INFO] [makklooplg] <-> ServerConnector [lobby] has connected
+12:33:07 [SEVERE] org.java_websocket.exceptions.WebsocketNotConnectedException
+12:33:07 [SEVERE] 	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:628)
+12:33:07 [SEVERE] 	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:618)
+12:33:07 [SEVERE] 	at net.md_5.bungee.eaglercraft.WebSocketProxy.messageReceived(WebSocketProxy.java:91)
+12:33:07 [SEVERE] 	at net.md_5.bungee.eaglercraft.WebSocketProxy.messageReceived(WebSocketProxy.java:1)
+12:33:07 [SEVERE] 	at io.netty.channel.SimpleChannelInboundHandler.messageReceived(SimpleChannelInboundHandler.java:84)
+12:33:07 [SEVERE] 	at io.netty.channel.DefaultChannelHandlerContext.invokeMessageReceived(DefaultChannelHandlerContext.java:379)
+12:33:07 [SEVERE] 	at io.netty.channel.DefaultChannelHandlerContext.fireMessageReceived(DefaultChannelHandlerContext.java:364)
+12:33:07 [SEVERE] 	at io.netty.channel.DefaultChannelPipeline.fireMessageReceived(DefaultChannelPipeline.java:786)
+12:33:07 [SEVERE] 	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:120)
+12:33:07 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:489)
+12:33:07 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:464)
+12:33:07 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:358)
+12:33:07 [SEVERE] 	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101)
+12:33:07 [SEVERE] 	at java.lang.Thread.run(Thread.java:748)
+12:33:07 [INFO] [makklooplg] -> UpstreamBridge has disconnected
+12:33:07 [INFO] [makklooplg] <-> DownstreamBridge <-> [lobby] has disconnected
+12:33:18 [INFO] [EmiX] <-> InitialHandler has connected
+12:33:18 [INFO] Player 'EmiX' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+12:33:18 [INFO] [EmiX] <-> ServerConnector [lobby] has connected
+12:33:19 [INFO] [EmiX] disconnected with: §cKicked whilst connecting to lobby: you're a bitch
+12:33:19 [INFO] [EmiX] -> UpstreamBridge has disconnected
+12:33:21 [INFO] [EmiX] <-> ServerConnector [lobby] has disconnected
+12:33:52 [INFO] [I_DID_NOTHING_BR] <-> InitialHandler has connected
+12:33:52 [INFO] Player 'I_DID_NOTHING_BR' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+12:33:52 [INFO] [I_DID_NOTHING_BR] <-> ServerConnector [lobby] has connected
+12:34:31 [INFO] [I_DID_NOTHING_BR] -> UpstreamBridge has disconnected
+12:34:31 [INFO] [I_DID_NOTHING_BR] <-> DownstreamBridge <-> [lobby] has disconnected
+12:34:40 [INFO] [EmiX] <-> InitialHandler has connected
+12:34:40 [INFO] Player 'EmiX' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+12:34:40 [INFO] [EmiX] <-> ServerConnector [lobby] has connected
+12:34:40 [INFO] [EmiX] disconnected with: §cKicked whilst connecting to lobby: you're a bitch
+12:34:40 [INFO] [EmiX] -> UpstreamBridge has disconnected
+12:34:42 [INFO] [EmiX] <-> ServerConnector [lobby] has disconnected
+12:34:43 [INFO] [EmiX] <-> InitialHandler has connected
+12:34:43 [INFO] Player 'EmiX' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+12:34:43 [INFO] [EmiX] <-> ServerConnector [lobby] has connected
+12:34:44 [INFO] [EmiX] disconnected with: §cKicked whilst connecting to lobby: you're a bitch
+12:34:44 [INFO] [EmiX] -> UpstreamBridge has disconnected
+12:34:46 [INFO] [EmiX] <-> ServerConnector [lobby] has disconnected
+12:34:48 [INFO] [EmiX] <-> InitialHandler has connected
+12:34:48 [INFO] Player 'EmiX' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+12:34:48 [INFO] [EmiX] <-> ServerConnector [lobby] has connected
+12:34:48 [INFO] [EmiX] disconnected with: §cKicked whilst connecting to lobby: you're a bitch
+12:34:48 [INFO] [EmiX] -> UpstreamBridge has disconnected
+12:34:50 [INFO] [EmiX] <-> ServerConnector [lobby] has disconnected
+12:34:58 [INFO] [EMIX] <-> InitialHandler has connected
+12:34:58 [INFO] Player 'EMIX' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+12:34:59 [INFO] [EMIX] <-> ServerConnector [lobby] has connected
+12:34:59 [INFO] [EMIX] disconnected with: §cKicked whilst connecting to lobby: you're a bitch
+12:34:59 [INFO] [EMIX] -> UpstreamBridge has disconnected
+12:35:01 [INFO] [EMIX] <-> ServerConnector [lobby] has disconnected
+12:35:09 [INFO] [HELP_ME] <-> InitialHandler has connected
+12:35:09 [INFO] Player 'HELP_ME' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+12:35:09 [INFO] [HELP_ME] <-> ServerConnector [lobby] has connected
+12:41:18 [INFO] [HELP_ME] -> UpstreamBridge has disconnected
+12:41:18 [INFO] [HELP_ME] <-> DownstreamBridge <-> [lobby] has disconnected
+12:41:25 [INFO] [EmiX] <-> InitialHandler has connected
+12:41:25 [INFO] Player 'EmiX' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+12:41:25 [INFO] [EmiX] <-> ServerConnector [lobby] has connected
+12:41:25 [INFO] [EmiX] disconnected with: §cKicked whilst connecting to lobby: you're a bitch
+12:41:25 [INFO] [EmiX] -> UpstreamBridge has disconnected
+12:41:27 [INFO] [EmiX] <-> ServerConnector [lobby] has disconnected
+12:41:42 [INFO] [EmiX] <-> InitialHandler has connected
+12:41:42 [INFO] Player 'EmiX' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+12:41:42 [INFO] [EmiX] <-> ServerConnector [lobby] has connected
+12:41:42 [INFO] [EmiX] disconnected with: §cKicked whilst connecting to lobby: you're a bitch
+12:41:42 [INFO] [EmiX] -> UpstreamBridge has disconnected
+12:41:44 [INFO] [EmiX] <-> ServerConnector [lobby] has disconnected
+12:42:00 [INFO] [IT_DOES_NOT_WORK] <-> InitialHandler has connected
+12:42:00 [INFO] Player 'IT_DOES_NOT_WORK' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+12:42:00 [INFO] [IT_DOES_NOT_WORK] <-> ServerConnector [lobby] has connected
+12:42:39 [WARNING] [markowner] -> UpstreamBridge - read timed out
+12:42:39 [INFO] [markowner] disconnected with: ReadTimeoutException : null
+12:42:39 [INFO] [markowner] -> UpstreamBridge has disconnected
+12:42:40 [WARNING] [markowner] <-> DownstreamBridge <-> [lobby] - IOException: Connection reset by peer
+12:42:40 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+12:43:40 [INFO] [IT_DOES_NOT_WORK] -> UpstreamBridge has disconnected
+12:43:40 [INFO] [IT_DOES_NOT_WORK] <-> DownstreamBridge <-> [lobby] has disconnected
+12:44:01 [INFO] [IT_DOES_NOT_WORK] <-> InitialHandler has connected
+12:44:01 [INFO] Player 'IT_DOES_NOT_WORK' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+12:44:02 [INFO] [IT_DOES_NOT_WORK] <-> ServerConnector [lobby] has connected
+12:47:31 [INFO] [markowner] <-> InitialHandler has connected
+12:47:31 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+12:47:31 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+12:49:41 [INFO] [markowner] -> UpstreamBridge has disconnected
+12:49:41 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+12:49:51 [INFO] [EmiX] <-> InitialHandler has connected
+12:49:51 [INFO] Player 'EmiX' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+12:49:52 [INFO] [EmiX] <-> ServerConnector [lobby] has connected
+12:49:52 [INFO] [EmiX] disconnected with: §cKicked whilst connecting to lobby: you're a bitch
+12:49:52 [INFO] [EmiX] -> UpstreamBridge has disconnected
+12:49:54 [INFO] [EmiX] <-> ServerConnector [lobby] has disconnected
+12:50:01 [INFO] [emix] <-> InitialHandler has connected
+12:50:01 [INFO] Player 'emix' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+12:50:01 [INFO] [emix] <-> ServerConnector [lobby] has connected
+12:50:06 [INFO] [emix] -> UpstreamBridge has disconnected
+12:50:06 [INFO] [emix] <-> DownstreamBridge <-> [lobby] has disconnected
+12:50:10 [INFO] [IT_DOES_NOT_WORK] -> UpstreamBridge has disconnected
+12:50:10 [INFO] [IT_DOES_NOT_WORK] <-> DownstreamBridge <-> [lobby] has disconnected
+12:50:20 [INFO] [markowner] <-> InitialHandler has connected
+12:50:20 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+12:50:21 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+12:50:45 [INFO] [EmiX] <-> InitialHandler has connected
+12:50:45 [INFO] Player 'EmiX' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+12:50:45 [INFO] [EmiX] <-> ServerConnector [lobby] has connected
+12:50:46 [INFO] [EmiX] disconnected with: §cKicked whilst connecting to lobby: you're a bitch
+12:50:46 [INFO] [EmiX] -> UpstreamBridge has disconnected
+12:50:48 [INFO] [EmiX] <-> ServerConnector [lobby] has disconnected
+12:52:31 [INFO] [EmiX] <-> InitialHandler has connected
+12:52:31 [INFO] Player 'EmiX' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+12:52:31 [INFO] [EmiX] <-> ServerConnector [lobby] has connected
+12:52:31 [INFO] [EmiX] disconnected with: §cKicked whilst connecting to lobby: you're a bitch
+12:52:31 [INFO] [EmiX] -> UpstreamBridge has disconnected
+12:52:33 [INFO] [EmiX] <-> ServerConnector [lobby] has disconnected
+12:52:47 [INFO] [UNBAN_EmiX] <-> InitialHandler has connected
+12:52:47 [INFO] Player 'UNBAN_EmiX' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+12:52:47 [INFO] [UNBAN_EmiX] <-> ServerConnector [lobby] has connected
+12:53:26 [INFO] [UNBAN_EmiX] -> UpstreamBridge has disconnected
+12:53:26 [INFO] [UNBAN_EmiX] <-> DownstreamBridge <-> [lobby] has disconnected
+12:53:26 [SEVERE] May 11, 2022 12:53:26 PM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+12:53:26 [SEVERE] May 11, 2022 12:53:26 PM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 3 channel(s) to the new Selector.
+
+12:53:35 [INFO] [emix] <-> InitialHandler has connected
+12:53:35 [INFO] Player 'emix' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+12:53:35 [INFO] [emix] <-> ServerConnector [lobby] has connected
+13:05:05 [INFO] [emix] -> UpstreamBridge has disconnected
+13:05:05 [INFO] [emix] <-> DownstreamBridge <-> [lobby] has disconnected
+13:08:39 [INFO] [emix] <-> InitialHandler has connected
+13:08:39 [INFO] Player 'emix' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+13:08:40 [INFO] [emix] <-> ServerConnector [lobby] has connected
+13:10:22 [WARNING] [emix] -> UpstreamBridge - read timed out
+13:10:22 [INFO] [emix] disconnected with: ReadTimeoutException : null
+13:10:22 [INFO] [emix] -> UpstreamBridge has disconnected
+13:10:22 [INFO] [emix] <-> DownstreamBridge <-> [lobby] has disconnected
+13:11:49 [INFO] [emix] <-> InitialHandler has connected
+13:11:49 [INFO] Player 'emix' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+13:11:49 [INFO] [emix] <-> ServerConnector [lobby] has connected
+13:13:14 [INFO] [emix] -> UpstreamBridge has disconnected
+13:13:14 [INFO] [emix] <-> DownstreamBridge <-> [lobby] has disconnected
+13:16:03 [INFO] [emix] <-> InitialHandler has connected
+13:16:03 [INFO] Player 'emix' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+13:16:03 [INFO] [emix] <-> ServerConnector [lobby] has connected
+13:17:59 [INFO] [emix] -> UpstreamBridge has disconnected
+13:17:59 [INFO] [emix] <-> DownstreamBridge <-> [lobby] has disconnected
+13:19:58 [INFO] [emix] <-> InitialHandler has connected
+13:19:58 [INFO] Player 'emix' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+13:19:58 [INFO] [emix] <-> ServerConnector [lobby] has connected
+13:23:05 [INFO] [emix] -> UpstreamBridge has disconnected
+13:23:05 [INFO] [emix] <-> DownstreamBridge <-> [lobby] has disconnected
+13:41:20 [INFO] [emix] <-> InitialHandler has connected
+13:41:20 [INFO] Player 'emix' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+13:41:20 [INFO] [emix] <-> ServerConnector [lobby] has connected
+13:41:52 [INFO] [emix] -> UpstreamBridge has disconnected
+13:41:52 [INFO] [emix] <-> DownstreamBridge <-> [lobby] has disconnected
+13:42:04 [INFO] [markowner] -> UpstreamBridge has disconnected
+13:42:04 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+13:43:57 [INFO] [emix] <-> InitialHandler has connected
+13:43:57 [INFO] Player 'emix' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+13:43:57 [INFO] [emix] <-> ServerConnector [lobby] has connected
+13:44:15 [INFO] [markowner] <-> InitialHandler has connected
+13:44:15 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+13:44:16 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+13:45:06 [INFO] [emix] -> UpstreamBridge has disconnected
+13:45:06 [INFO] [emix] <-> DownstreamBridge <-> [lobby] has disconnected
+13:50:58 [INFO] [emix] <-> InitialHandler has connected
+13:50:58 [INFO] Player 'emix' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+13:50:58 [INFO] [emix] <-> ServerConnector [lobby] has connected
+14:04:48 [INFO] [markowner] -> UpstreamBridge has disconnected
+14:04:49 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+14:34:03 [INFO] [emix] -> UpstreamBridge has disconnected
+14:34:03 [INFO] [emix] <-> DownstreamBridge <-> [lobby] has disconnected
+14:36:02 [INFO] [markowner] <-> InitialHandler has connected
+14:36:02 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+14:36:02 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+14:36:34 [INFO] [emix] <-> InitialHandler has connected
+14:36:34 [INFO] Player 'emix' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+14:36:34 [INFO] [emix] <-> ServerConnector [lobby] has connected
+14:37:37 [INFO] [markowner] -> UpstreamBridge has disconnected
+14:37:37 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+14:39:08 [SEVERE] org.java_websocket.exceptions.WebsocketNotConnectedException
+14:39:08 [SEVERE] 	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:628)
+14:39:08 [SEVERE] 	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:618)
+14:39:08 [SEVERE] 	at net.md_5.bungee.eaglercraft.WebSocketProxy.messageReceived(WebSocketProxy.java:91)
+14:39:08 [SEVERE] 	at net.md_5.bungee.eaglercraft.WebSocketProxy.messageReceived(WebSocketProxy.java:1)
+14:39:08 [SEVERE] 	at io.netty.channel.SimpleChannelInboundHandler.messageReceived(SimpleChannelInboundHandler.java:84)
+14:39:08 [SEVERE] 	at io.netty.channel.DefaultChannelHandlerContext.invokeMessageReceived(DefaultChannelHandlerContext.java:379)
+14:39:08 [SEVERE] 	at io.netty.channel.DefaultChannelHandlerContext.fireMessageReceived(DefaultChannelHandlerContext.java:364)
+14:39:08 [SEVERE] 	at io.netty.channel.DefaultChannelPipeline.fireMessageReceived(DefaultChannelPipeline.java:786)
+14:39:08 [SEVERE] 	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:120)
+14:39:08 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:489)
+14:39:08 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:464)
+14:39:08 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:358)
+14:39:08 [SEVERE] 	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101)
+14:39:08 [SEVERE] 	at java.lang.Thread.run(Thread.java:748)
+14:39:08 [WARNING] [emix] -> UpstreamBridge - IOException: Connection reset by peer
+14:39:08 [INFO] [emix] disconnected with: IOException : Connection reset by peer @ sun.nio.ch.FileDispatcherImpl:-2
+14:39:08 [INFO] [emix] -> UpstreamBridge has disconnected
+14:39:08 [SEVERE] May 11, 2022 2:39:08 PM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+14:39:08 [SEVERE] May 11, 2022 2:39:08 PM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 2 channel(s) to the new Selector.
+
+14:39:09 [INFO] [emix] <-> DownstreamBridge <-> [lobby] has disconnected
+14:40:01 [INFO] [emix] <-> InitialHandler has connected
+14:40:01 [INFO] Player 'emix' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+14:40:01 [INFO] [emix] <-> ServerConnector [lobby] has connected
+14:48:32 [INFO] [emix] -> UpstreamBridge has disconnected
+14:48:32 [INFO] [emix] <-> DownstreamBridge <-> [lobby] has disconnected
+14:49:28 [INFO] [emix] <-> InitialHandler has connected
+14:49:28 [INFO] Player 'emix' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+14:49:28 [INFO] [emix] <-> ServerConnector [lobby] has connected
+14:51:04 [INFO] [emix] -> UpstreamBridge has disconnected
+14:51:04 [INFO] [emix] <-> DownstreamBridge <-> [lobby] has disconnected
+14:52:25 [INFO] [n_h] <-> InitialHandler has connected
+14:52:25 [INFO] Player 'n_h' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+14:52:25 [INFO] [n_h] <-> ServerConnector [lobby] has connected
+14:52:27 [INFO] [emix] <-> InitialHandler has connected
+14:52:27 [INFO] Player 'emix' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+14:52:27 [INFO] [emix] <-> ServerConnector [lobby] has connected
+14:57:44 [INFO] [n_h] -> UpstreamBridge has disconnected
+14:57:44 [INFO] [n_h] <-> DownstreamBridge <-> [lobby] has disconnected
+14:59:13 [SEVERE] org.java_websocket.exceptions.WebsocketNotConnectedException
+14:59:13 [SEVERE] 	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:628)
+14:59:13 [SEVERE] 	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:618)
+14:59:13 [SEVERE] 	at net.md_5.bungee.eaglercraft.WebSocketProxy.messageReceived(WebSocketProxy.java:91)
+14:59:13 [SEVERE] 	at net.md_5.bungee.eaglercraft.WebSocketProxy.messageReceived(WebSocketProxy.java:1)
+14:59:13 [SEVERE] 	at io.netty.channel.SimpleChannelInboundHandler.messageReceived(SimpleChannelInboundHandler.java:84)
+14:59:13 [SEVERE] 	at io.netty.channel.DefaultChannelHandlerContext.invokeMessageReceived(DefaultChannelHandlerContext.java:379)
+14:59:13 [SEVERE] 	at io.netty.channel.DefaultChannelHandlerContext.fireMessageReceived(DefaultChannelHandlerContext.java:364)
+14:59:13 [SEVERE] 	at io.netty.channel.DefaultChannelPipeline.fireMessageReceived(DefaultChannelPipeline.java:786)
+14:59:13 [SEVERE] 	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:120)
+14:59:13 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:489)
+14:59:13 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:464)
+14:59:13 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:358)
+14:59:13 [SEVERE] 	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101)
+14:59:13 [SEVERE] 	at java.lang.Thread.run(Thread.java:748)
+14:59:13 [WARNING] [emix] -> UpstreamBridge - IOException: Connection reset by peer
+14:59:13 [INFO] [emix] disconnected with: IOException : Connection reset by peer @ sun.nio.ch.FileDispatcherImpl:-2
+14:59:13 [INFO] [emix] -> UpstreamBridge has disconnected
+14:59:13 [INFO] [emix] <-> DownstreamBridge <-> [lobby] has disconnected
+14:59:13 [SEVERE] May 11, 2022 2:59:13 PM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+14:59:13 [SEVERE] May 11, 2022 2:59:13 PM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 1 channel(s) to the new Selector.
+
+15:01:46 [INFO] [markowner] <-> InitialHandler has connected
+15:01:46 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+15:01:46 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+15:03:22 [SEVERE] org.java_websocket.exceptions.WebsocketNotConnectedException
+15:03:22 [SEVERE] 	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:628)
+15:03:22 [SEVERE] 	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:618)
+15:03:22 [SEVERE] 	at net.md_5.bungee.eaglercraft.WebSocketProxy.messageReceived(WebSocketProxy.java:91)
+15:03:22 [SEVERE] 	at net.md_5.bungee.eaglercraft.WebSocketProxy.messageReceived(WebSocketProxy.java:1)
+15:03:22 [SEVERE] 	at io.netty.channel.SimpleChannelInboundHandler.messageReceived(SimpleChannelInboundHandler.java:84)
+15:03:22 [SEVERE] 	at io.netty.channel.DefaultChannelHandlerContext.invokeMessageReceived(DefaultChannelHandlerContext.java:379)
+15:03:22 [SEVERE] 	at io.netty.channel.DefaultChannelHandlerContext.fireMessageReceived(DefaultChannelHandlerContext.java:364)
+15:03:22 [SEVERE] 	at io.netty.channel.DefaultChannelPipeline.fireMessageReceived(DefaultChannelPipeline.java:786)
+15:03:22 [SEVERE] 	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:120)
+15:03:22 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:489)
+15:03:22 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:464)
+15:03:22 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:358)
+15:03:22 [SEVERE] 	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101)
+15:03:22 [SEVERE] 	at java.lang.Thread.run(Thread.java:748)
+15:03:22 [WARNING] [markowner] -> UpstreamBridge - IOException: Connection reset by peer
+15:03:22 [INFO] [markowner] disconnected with: IOException : Connection reset by peer @ sun.nio.ch.FileDispatcherImpl:-2
+15:03:22 [INFO] [markowner] -> UpstreamBridge has disconnected
+15:03:22 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+15:03:53 [INFO] Enabled BungeeCord version unknown
+15:03:54 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:03:54 [INFO] Listening websockets on /0.0.0.0:1
+15:03:54 [SEVERE] java.net.BindException: Address already in use
+15:03:54 [SEVERE] 	at sun.nio.ch.Net.bind0(Native Method)
+15:03:54 [SEVERE] 	at sun.nio.ch.Net.bind(Net.java:461)
+15:03:54 [SEVERE] 	at sun.nio.ch.Net.bind(Net.java:453)
+15:03:54 [SEVERE] 	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:222)
+15:03:54 [SEVERE] 	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:85)
+15:03:54 [SEVERE] 	at org.java_websocket.server.WebSocketServer.doSetupSelectorAndServerThread(WebSocketServer.java:533)
+15:03:54 [SEVERE] 	at org.java_websocket.server.WebSocketServer.run(WebSocketServer.java:341)
+15:03:54 [SEVERE] 	at java.lang.Thread.run(Thread.java:748)
+15:03:55 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:03:55 [INFO] Listening on /127.11.0.1:45351
+15:03:55 [INFO] Reload complete
+15:04:45 [INFO] Enabled BungeeCord version unknown
+15:04:45 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:04:46 [INFO] Listening websockets on /0.0.0.0:1
+15:04:46 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:04:46 [INFO] Reload complete
+15:04:46 [INFO] Listening on /127.11.0.1:43323
+15:05:32 [INFO] [markowner] <-> InitialHandler has connected
+15:05:32 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+15:05:32 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+15:05:44 [INFO] [markowner] -> UpstreamBridge has disconnected
+15:05:44 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+15:06:58 [INFO] Enabled BungeeCord version unknown
+15:06:59 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:06:59 [INFO] Listening websockets on /0.0.0.0:1
+15:06:59 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:06:59 [INFO] Reload complete
+15:07:00 [INFO] Listening on /127.11.0.1:45639
+15:07:35 [INFO] [markowner] <-> InitialHandler has connected
+15:07:35 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+15:07:35 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+15:07:48 [INFO] [markowner] -> UpstreamBridge has disconnected
+15:07:48 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+15:26:33 [INFO] [markowner] <-> InitialHandler has connected
+15:26:33 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+15:26:33 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+15:28:14 [INFO] [lelajn2_3kkamnhd] <-> InitialHandler has connected
+15:28:14 [INFO] Player 'lelajn2_3kkamnhd' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+15:28:14 [INFO] [lelajn2_3kkamnhd] <-> ServerConnector [lobby] has connected
+15:28:15 [INFO] [emix] <-> InitialHandler has connected
+15:28:15 [INFO] Player 'emix' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+15:28:15 [INFO] [emix] <-> ServerConnector [lobby] has connected
+15:28:29 [INFO] [lelajn2_3kkamnhd] -> UpstreamBridge has disconnected
+15:28:29 [INFO] [lelajn2_3kkamnhd] <-> DownstreamBridge <-> [lobby] has disconnected
+15:28:37 [INFO] [emix] disconnected with: [Kicked] Kicked by an operator.
+15:28:37 [INFO] [emix] -> UpstreamBridge has disconnected
+15:28:38 [INFO] [emix] <-> DownstreamBridge <-> [lobby] has disconnected
+15:28:42 [INFO] [emix] <-> InitialHandler has connected
+15:28:42 [INFO] Player 'emix' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+15:28:43 [INFO] [emix] <-> ServerConnector [lobby] has connected
+15:28:45 [SEVERE] org.java_websocket.exceptions.WebsocketNotConnectedException
+15:28:45 [SEVERE] 	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:628)
+15:29:58 [INFO] Enabled BungeeCord version unknown
+15:29:59 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:29:59 [INFO] Listening websockets on /0.0.0.0:1
+15:30:00 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:30:00 [INFO] Reload complete
+15:30:00 [INFO] Listening on /127.11.0.1:36469
+15:31:22 [INFO] [markowner] <-> InitialHandler has connected
+15:31:22 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+15:31:23 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+15:33:11 [INFO] [markowner] -> UpstreamBridge has disconnected
+15:33:11 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+15:52:07 [INFO] [markowner] <-> InitialHandler has connected
+15:52:07 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+15:52:07 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+16:02:07 [INFO] [markowner] -> UpstreamBridge has disconnected
+16:02:07 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+16:10:11 [INFO] [markowner] <-> InitialHandler has connected
+16:10:11 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+16:10:11 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+16:10:48 [INFO] [markowner] -> UpstreamBridge has disconnected
+16:10:48 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+16:19:51 [INFO] [markowner] <-> InitialHandler has connected
+16:19:51 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+16:19:51 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+16:35:13 [INFO] [YeeishDarver95] <-> InitialHandler has connected
+16:35:13 [INFO] Player 'YeeishDarver95' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+16:35:13 [INFO] [YeeishDarver95] <-> ServerConnector [lobby] has connected
+16:35:17 [INFO] [markowner] -> UpstreamBridge has disconnected
+16:35:17 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+16:35:21 [INFO] [YeeishDarver95] -> UpstreamBridge has disconnected
+16:35:21 [INFO] [YeeishDarver95] <-> DownstreamBridge <-> [lobby] has disconnected
+16:40:35 [INFO] Enabled BungeeCord version unknown
+16:40:35 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+16:40:35 [INFO] Listening websockets on /0.0.0.0:1
+16:40:36 [INFO] Server bans.txt changed, it will be reloaded automatically
+16:40:36 [INFO] Reload complete
+16:40:36 [INFO] Listening on /127.11.0.1:43799
+16:43:07 [INFO] [markowner] <-> InitialHandler has connected
+16:43:07 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+16:43:08 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+16:44:36 [INFO] [markowner] -> UpstreamBridge has disconnected
+16:44:36 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+16:46:52 [INFO] [markowner] <-> InitialHandler has connected
+16:46:52 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+16:46:52 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+16:50:59 [INFO] [markowner] -> UpstreamBridge has disconnected
+16:50:59 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+17:39:30 [INFO] [markowner] <-> InitialHandler has connected
+17:39:30 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+17:39:31 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+17:42:24 [INFO] [markowner] -> UpstreamBridge has disconnected
+17:42:24 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+18:23:59 [INFO] [brick] <-> InitialHandler has connected
+18:23:59 [INFO] Player 'brick' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+18:23:59 [INFO] [brick] <-> ServerConnector [lobby] has connected
+18:27:11 [INFO] [brick] -> UpstreamBridge has disconnected
+18:27:11 [INFO] [brick] <-> DownstreamBridge <-> [lobby] has disconnected
+19:32:19 [INFO] Enabled BungeeCord version unknown
+19:32:21 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+19:32:21 [INFO] Listening websockets on /0.0.0.0:1
+19:32:22 [INFO] Server bans.txt changed, it will be reloaded automatically
+19:32:22 [INFO] Reload complete
+19:32:23 [INFO] Listening on /127.11.0.1:35099
+22:48:44 [INFO] Enabled BungeeCord version unknown
+22:48:45 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+22:48:45 [INFO] Listening websockets on /0.0.0.0:1
+22:48:46 [INFO] Server bans.txt changed, it will be reloaded automatically
+22:48:46 [INFO] Reload complete
+22:48:46 [INFO] Listening on /127.11.0.1:44241
+12:00:50 [INFO] Enabled BungeeCord version unknown
+12:00:51 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+12:00:51 [INFO] Listening websockets on /0.0.0.0:1
+12:00:52 [INFO] Server bans.txt changed, it will be reloaded automatically
+12:00:52 [INFO] Reload complete
+12:00:52 [INFO] Listening on /127.11.0.1:36875
+12:02:05 [INFO] [markowner] <-> InitialHandler has connected
+12:02:05 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+12:02:06 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+12:43:42 [WARNING] [markowner] -> UpstreamBridge - read timed out
+12:43:42 [INFO] [markowner] disconnected with: ReadTimeoutException : null
+12:43:42 [INFO] [markowner] -> UpstreamBridge has disconnected
+12:43:42 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+12:46:59 [INFO] [markowner] <-> InitialHandler has connected
+12:46:59 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+12:46:59 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+12:49:33 [INFO] [markowner] -> UpstreamBridge has disconnected
+12:49:33 [WARNING] [markowner] <-> DownstreamBridge <-> [lobby] - IOException: Connection reset by peer
+12:49:33 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+12:52:12 [INFO] [markowner] <-> InitialHandler has connected
+12:52:12 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+12:52:12 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+13:07:31 [INFO] [markowner] -> UpstreamBridge has disconnected
+13:07:31 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+13:14:48 [INFO] [markowner] <-> InitialHandler has connected
+13:14:48 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+13:14:48 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+13:15:54 [INFO] [markowner] -> UpstreamBridge has disconnected
+13:15:54 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+13:19:21 [INFO] [markowner] <-> InitialHandler has connected
+13:19:21 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+13:19:21 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+13:42:08 [INFO] [markowner] -> UpstreamBridge has disconnected
+13:42:08 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+13:42:08 [SEVERE] May 12, 2022 1:42:08 PM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+13:42:08 [SEVERE] May 12, 2022 1:42:08 PM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 1 channel(s) to the new Selector.
+
+13:45:01 [INFO] [markowner] <-> InitialHandler has connected
+13:45:01 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+13:45:01 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+13:46:24 [INFO] [markowner] -> UpstreamBridge has disconnected
+13:46:24 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+13:51:09 [INFO] [markowner] <-> InitialHandler has connected
+13:51:09 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+13:51:09 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+13:53:43 [INFO] [markowner] -> UpstreamBridge has disconnected
+13:53:43 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+13:55:06 [INFO] [markowner] <-> InitialHandler has connected
+13:55:06 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+13:55:06 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+14:01:20 [INFO] [markowner] -> UpstreamBridge has disconnected
+14:01:20 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+14:03:37 [INFO] [markowner] <-> InitialHandler has connected
+14:03:37 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+14:03:37 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+14:04:05 [INFO] [markowner] <-> InitialHandler has connected
+14:04:05 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+14:04:10 [INFO] [markowner] <-> InitialHandler has connected
+14:04:10 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+14:04:11 [WARNING] [markowner] -> UpstreamBridge - read timed out
+14:04:11 [INFO] [markowner] disconnected with: ReadTimeoutException : null
+14:04:11 [INFO] [markowner] -> UpstreamBridge has disconnected
+14:04:11 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+14:04:15 [INFO] [markowner] <-> InitialHandler has connected
+14:04:15 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+14:04:15 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+14:05:06 [INFO] [markowner] -> UpstreamBridge has disconnected
+14:05:06 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+14:05:55 [INFO] [markowner] <-> InitialHandler has connected
+14:05:55 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+14:05:55 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+14:06:03 [INFO] [markowner] -> UpstreamBridge has disconnected
+14:06:03 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+14:13:16 [INFO] [markowner] <-> InitialHandler has connected
+14:13:16 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+14:13:16 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+14:15:56 [INFO] [markowner] -> UpstreamBridge has disconnected
+14:15:56 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+14:35:51 [INFO] [markowner] <-> InitialHandler has connected
+14:35:51 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+14:35:51 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+14:49:31 [INFO] [markowner] -> UpstreamBridge has disconnected
+14:49:31 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+15:08:14 [INFO] Enabled BungeeCord version unknown
+15:08:16 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:08:16 [INFO] Listening websockets on /0.0.0.0:1
+15:08:17 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:08:17 [INFO] Listening on /127.11.0.1:37541
+15:08:17 [INFO] Reload complete
+15:09:11 [INFO] [markowner] <-> InitialHandler has connected
+15:09:11 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+15:09:12 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+15:26:11 [INFO] [markowner] -> UpstreamBridge has disconnected
+15:26:11 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+15:27:33 [INFO] [markowner] <-> InitialHandler has connected
+15:27:33 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+15:27:33 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+15:30:03 [INFO] [markowner] -> UpstreamBridge has disconnected
+15:30:03 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+15:49:20 [INFO] [markowner] <-> InitialHandler has connected
+15:49:20 [INFO] Player 'markowner' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+15:49:20 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+16:24:16 [INFO] Enabled BungeeCord version unknown
+16:24:20 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+16:24:20 [INFO] Listening websockets on /0.0.0.0:1
+16:24:21 [INFO] Server bans.txt changed, it will be reloaded automatically
+16:24:22 [INFO] Listening on /127.11.0.1:44973
+16:24:22 [INFO] Reload complete
+16:50:22 [INFO] Enabled BungeeCord version unknown
+16:50:33 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+16:50:36 [INFO] Listening websockets on /0.0.0.0:1
+16:50:44 [INFO] Server bans.txt changed, it will be reloaded automatically
+16:50:45 [INFO] Reload complete
+16:50:45 [INFO] Listening on /127.11.0.1:34577
+17:56:43 [INFO] Enabled BungeeCord version unknown
+17:56:44 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+17:56:44 [INFO] Listening websockets on /0.0.0.0:1
+17:56:44 [INFO] Server bans.txt changed, it will be reloaded automatically
+17:56:45 [INFO] Reload complete
+17:56:45 [INFO] Listening on /127.11.0.1:46027
+12:46:35 [INFO] Enabled BungeeCord version unknown
+12:46:38 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+12:46:38 [INFO] Listening websockets on /0.0.0.0:1
+12:46:40 [INFO] Server bans.txt changed, it will be reloaded automatically
+12:46:41 [INFO] Reload complete
+12:46:41 [INFO] Listening on /127.11.0.1:39277
+12:47:00 [INFO] [markowner] <-> InitialHandler has connected
+12:47:00 [INFO] Player 'markowner' [/172.18.0.1] has remote websocket IP: 172.18.0.1
+12:47:01 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+12:47:22 [INFO] [markowner] -> UpstreamBridge has disconnected
+12:47:26 [INFO] [markowner] <-> InitialHandler has connected
+12:47:26 [INFO] Player 'markowner' [/172.18.0.1] has remote websocket IP: 172.18.0.1
+12:47:26 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+12:47:30 [WARNING] [markowner] <-> ServerConnector [lobby] - read timed out
+12:47:30 [INFO] [markowner] <-> ServerConnector [lobby] has disconnected
+12:49:22 [INFO] [markowner] -> UpstreamBridge has disconnected
+12:49:22 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+12:50:12 [INFO] [markowner] <-> InitialHandler has connected
+12:50:12 [INFO] Player 'markowner' [/172.18.0.1] has remote websocket IP: 172.18.0.1
+12:50:12 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+12:50:19 [INFO] [markowner] -> UpstreamBridge has disconnected
+12:50:19 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+12:50:23 [INFO] [markowner] <-> InitialHandler has connected
+12:50:23 [INFO] Player 'markowner' [/172.18.0.1] has remote websocket IP: 172.18.0.1
+12:50:24 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+12:50:25 [INFO] [markowner] -> UpstreamBridge has disconnected
+12:51:00 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+12:53:27 [INFO] [markowner] <-> InitialHandler has connected
+12:53:27 [INFO] Player 'markowner' [/172.18.0.1] has remote websocket IP: 172.18.0.1
+12:53:27 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+13:42:01 [INFO] [markowner] -> UpstreamBridge has disconnected
+13:42:01 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+13:43:59 [INFO] [markowner] <-> InitialHandler has connected
+13:43:59 [INFO] Player 'markowner' [/172.18.0.1] has remote websocket IP: 172.18.0.1
+13:44:00 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+13:45:11 [INFO] [markowner] -> UpstreamBridge has disconnected
+13:45:11 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+13:45:11 [SEVERE] May 13, 2022 1:45:11 PM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+13:45:12 [SEVERE] May 13, 2022 1:45:11 PM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 1 channel(s) to the new Selector.
+
+14:18:34 [INFO] [markowner] <-> InitialHandler has connected
+14:18:34 [INFO] Player 'markowner' [/172.18.0.1] has remote websocket IP: 172.18.0.1
+14:18:35 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+14:22:42 [INFO] [markowner] -> UpstreamBridge has disconnected
+14:22:42 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+14:30:54 [INFO] [markowner] <-> InitialHandler has connected
+14:30:54 [INFO] Player 'markowner' [/172.18.0.1] has remote websocket IP: 172.18.0.1
+14:30:54 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+14:34:01 [INFO] [markowner] -> UpstreamBridge has disconnected
+14:34:01 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+14:35:40 [INFO] [markowner] <-> InitialHandler has connected
+14:35:40 [INFO] Player 'markowner' [/172.18.0.1] has remote websocket IP: 172.18.0.1
+14:35:41 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+14:37:26 [INFO] [markowner] -> UpstreamBridge has disconnected
+14:37:26 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+14:39:53 [INFO] [markowner] <-> InitialHandler has connected
+14:39:53 [INFO] Player 'markowner' [/172.18.0.1] has remote websocket IP: 172.18.0.1
+14:39:53 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+14:42:52 [INFO] [markowner] -> UpstreamBridge has disconnected
+14:42:52 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+14:52:12 [INFO] [markowner] <-> InitialHandler has connected
+14:52:12 [INFO] Player 'markowner' [/172.18.0.1] has remote websocket IP: 172.18.0.1
+14:52:12 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+14:53:11 [INFO] [markowner] -> UpstreamBridge has disconnected
+14:53:11 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+15:00:58 [INFO] [markowner] <-> InitialHandler has connected
+15:00:58 [INFO] Player 'markowner' [/172.18.0.1] has remote websocket IP: 172.18.0.1
+15:00:59 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+15:01:40 [INFO] [markowner] -> UpstreamBridge has disconnected
+15:01:40 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+15:01:42 [INFO] [markowner] <-> InitialHandler has connected
+15:01:42 [INFO] Player 'markowner' [/172.18.0.1] has remote websocket IP: 172.18.0.1
+15:01:42 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+15:09:50 [INFO] [markowner] disconnected with: [Proxy] Lost connection to server.
+15:09:50 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+15:09:50 [INFO] [markowner] -> UpstreamBridge has disconnected
+15:12:35 [INFO] Enabled BungeeCord version unknown
+15:12:38 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:12:38 [INFO] Listening websockets on /0.0.0.0:1
+15:12:41 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:12:41 [INFO] Listening on /127.11.0.1:32925
+15:12:41 [INFO] Reload complete
+15:13:02 [INFO] [markowner] <-> InitialHandler has connected
+15:13:02 [INFO] WARNING: player 'markowner' doesn't have a websocket IP, remote address: /127.0.0.1:50452
+15:13:03 [INFO] [markowner] -> UpstreamBridge has disconnected
+15:13:03 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+15:13:05 [INFO] [markowner] <-> InitialHandler has connected
+15:13:05 [INFO] Player 'markowner' [/172.18.0.1] has remote websocket IP: 172.18.0.1
+15:13:05 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+15:13:33 [WARNING] [markowner] <-> ServerConnector [lobby] - read timed out
+15:13:33 [INFO] [markowner] <-> ServerConnector [lobby] has disconnected
+15:13:33 [INFO] [markowner] -> UpstreamBridge has disconnected
+15:13:35 [WARNING] [markowner] <-> ServerConnector [lobby] - read timed out
+15:13:35 [INFO] [markowner] <-> ServerConnector [lobby] has disconnected
+15:15:40 [INFO] [markowner] <-> InitialHandler has connected
+15:15:40 [INFO] Player 'markowner' [/172.18.0.1] has remote websocket IP: 172.18.0.1
+15:15:41 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+15:24:26 [INFO] [markowner] -> UpstreamBridge has disconnected
+15:24:26 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+15:26:36 [INFO] [markowner] <-> InitialHandler has connected
+15:26:36 [INFO] Player 'markowner' [/172.18.0.1] has remote websocket IP: 172.18.0.1
+15:26:36 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+15:32:50 [INFO] [markowner] -> UpstreamBridge has disconnected
+15:32:51 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+15:44:11 [INFO] [markowner] <-> InitialHandler has connected
+15:44:11 [INFO] Player 'markowner' [/172.18.0.1] has remote websocket IP: 172.18.0.1
+15:44:11 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+15:54:41 [INFO] [markowner] -> UpstreamBridge has disconnected
+15:54:41 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+15:54:44 [INFO] [markowner] <-> InitialHandler has connected
+15:54:44 [INFO] Player 'markowner' [/172.18.0.1] has remote websocket IP: 172.18.0.1
+15:54:44 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+16:10:41 [WARNING] [markowner] <-> DownstreamBridge <-> [lobby] - read timed out
+16:10:41 [INFO] [markowner] disconnected with: ReadTimeoutException : null
+16:10:41 [INFO] [markowner] -> UpstreamBridge has disconnected
+16:10:41 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+16:10:44 [INFO] [markowner] <-> InitialHandler has connected
+16:10:44 [INFO] Player 'markowner' [/172.18.0.1] has remote websocket IP: 172.18.0.1
+16:10:44 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+16:11:40 [WARNING] [markowner] <-> DownstreamBridge <-> [lobby] - read timed out
+16:11:40 [INFO] [markowner] disconnected with: ReadTimeoutException : null
+16:11:40 [INFO] [markowner] -> UpstreamBridge has disconnected
+16:11:40 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+16:11:40 [SEVERE] java.io.IOException: Connection reset by peer
+16:11:40 [SEVERE] 	at sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+16:11:41 [SEVERE] 	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+16:11:41 [SEVERE] 	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+16:11:41 [SEVERE] 	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+16:11:41 [SEVERE] 	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:379)
+16:11:41 [SEVERE] 	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:401)
+16:11:41 [SEVERE] 	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:887)
+16:11:41 [SEVERE] 	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:247)
+16:11:41 [SEVERE] 	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:89)
+16:11:41 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:489)
+16:11:41 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:464)
+16:11:41 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:358)
+16:11:41 [SEVERE] 	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101)
+16:11:41 [SEVERE] 	at java.lang.Thread.run(Thread.java:748)
+16:11:43 [INFO] [markowner] <-> InitialHandler has connected
+16:11:43 [INFO] Player 'markowner' [/172.18.0.1] has remote websocket IP: 172.18.0.1
+16:11:43 [INFO] [markowner] <-> ServerConnector [lobby] has connected
+16:13:47 [INFO] [markowner] disconnected with: [Proxy] Lost connection to server.
+16:13:47 [INFO] [markowner] <-> DownstreamBridge <-> [lobby] has disconnected
+16:13:47 [SEVERE] java.io.IOException: Connection reset by peer
+16:13:47 [SEVERE] 	at sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+16:13:47 [SEVERE] 	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+16:13:47 [SEVERE] 	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+16:13:47 [SEVERE] 	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+16:13:47 [SEVERE] 	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:379)
+16:13:47 [SEVERE] 	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:401)
+16:13:47 [SEVERE] 	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:887)
+16:13:47 [SEVERE] 	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:247)
+16:13:47 [SEVERE] 	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:89)
+16:13:47 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:489)
+16:13:47 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:464)
+16:13:47 [SEVERE] 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:358)
+16:13:47 [SEVERE] 	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101)
+16:13:47 [SEVERE] 	at java.lang.Thread.run(Thread.java:748)
+16:13:48 [INFO] [markowner] -> UpstreamBridge has disconnected
+16:50:40 [INFO] Enabled BungeeCord version unknown
+16:50:42 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+16:50:43 [INFO] Listening websockets on /0.0.0.0:1
+16:50:44 [INFO] Server bans.txt changed, it will be reloaded automatically
+16:50:44 [INFO] Reload complete
+16:50:44 [INFO] Listening on /127.11.0.1:34377
+16:49:14 [INFO] Enabled BungeeCord version unknown
+16:49:16 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+16:49:17 [INFO] Listening websockets on /0.0.0.0:1
+16:49:17 [INFO] Server bans.txt changed, it will be reloaded automatically
+16:49:17 [INFO] Reload complete
+16:49:17 [INFO] Listening on /127.11.0.1:35705
+12:37:58 [INFO] Enabled BungeeCord version unknown
+12:38:09 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+12:38:09 [INFO] Listening websockets on /0.0.0.0:1
+12:38:14 [INFO] Server bans.txt changed, it will be reloaded automatically
+12:38:15 [INFO] Reload complete
+12:38:16 [INFO] Listening on /127.11.0.1:37149
+11:41:25 [INFO] Enabled BungeeCord version unknown
+11:41:26 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+11:41:27 [INFO] Listening websockets on /0.0.0.0:1
+11:41:27 [INFO] Server bans.txt changed, it will be reloaded automatically
+11:41:27 [INFO] Reload complete
+11:41:27 [INFO] Listening on /127.11.0.1:39655
+11:48:51 [INFO] Enabled BungeeCord version unknown
+11:48:52 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+11:48:52 [INFO] Listening websockets on /0.0.0.0:1
+11:48:53 [INFO] Server bans.txt changed, it will be reloaded automatically
+11:48:53 [INFO] Reload complete
+11:48:53 [INFO] Listening on /127.11.0.1:32783
